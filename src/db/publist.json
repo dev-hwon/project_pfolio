@@ -1,0 +1,3423 @@
+{
+    "lists" : [{
+        "device" : "pc",
+        "childcategory" : ["promotion", "globalshopping", "eclub", "car", "emoney", "member", "mockup", "knowcom", "core", "sdu", "bridge", "dm", "mail", "policy", "noticeLayer", "uiGuide", "enuripc", "ems", "summerceIntro", "travel", "jca", "enuriAd"],
+        "listbycategory" : [
+            {
+                "category" : "promotion",
+                "title" : "push 알림 혜택",
+                "url" : "/pub_test/event/y2021_rev/appush/web/index_may.html"
+            }, {
+                "category" : "promotion",
+                "title" : "출석 & 룰렛 혜택 프로모션",
+                "url" : "/pub_test/event/y2021_rev/buy_birth/web/index_dec.html"
+            }, {
+                "category" : "promotion",
+                "title" : "생일 & 컴백 혜택 프로모션",
+                "url" : "/pub_test/event/y2021_rev/buy_birth/web/index_dec.html"
+            }, {
+                "category" : "promotion",
+                "title" : "웰컴 혜택 (신규회원 혜택) 프로모션",
+                "url" : "/pub_test/event/y2021_rev/buy_first/web/dec/newmember.html"
+            }, {
+                "category" : "promotion",
+                "title" : "웰컴 혜택 (초대 혜택) 프로모션",
+                "url" : "/pub_test/event/y2021_rev/buy_first/web/dec/invite.html"  
+            }, {
+                "category" : "promotion",
+                "title" : "브랜드왕",
+                "url" : "/pub_test/event/y2021_rev/buy_king/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "구매 프로모션",
+                "url" : "/pub_test/event/y2021_rev/chuseok_pro/web/tab1.html"  
+            }, {
+                "category" : "promotion",
+                "title" : "추석 혜택 tab1",
+                "url" : "/pub_test/event/y2021_rev/chuseok_pro/web/tab1.html"  
+            }, {
+                "category" : "promotion",
+                "title" : "추석 혜택 tab2",
+                "url" : "/pub_test/event/y2021_rev/chuseok_pro/web/tab2.html"  
+            }, {
+                "category" : "promotion",
+                "title" : "추석 혜택 tab3",
+                "url" : "/pub_test/event/y2021_rev/chuseok_pro/web/tab3.html"  
+            }, {
+                "category" : "promotion",
+                "title" : "쇼핑몰 연결 혜택",
+                "url" : "/pub_test/event/y2021_rev/connect_shop/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "쿠팡 신규회원 적립",
+                "url" : "/pub_test/event/y2021_rev/coupang_new/web/index.html" 
+            }, {
+                "category" : "promotion",
+                "title" : "휴면고객 로그인 혜택",
+                "url" : "/pub_test/event/y2021_rev/dormancy/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "직장인공감",
+                "url" : "/pub_test/event/y2021_rev/empathywork/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "직장인공감(테스트)",
+                "url" : "/pub_test/event/y2021_rev/empathywork/web/quiz.html"
+            }, {
+                "category" : "promotion",
+                "title" : "최저가 찾기",
+                "url" : "/pub_test/event/y2021_rev/enuri_via/web/index.html" 
+            }, {
+                "category" : "promotion",
+                "title" : "가정의달 tab1",
+                "url" : "/pub_test/event/y2021_rev/familymonth/web/tab01.html"   
+            }, {
+                "category" : "promotion",
+                "title" : "가정의달 tab2",
+                "url" : "/pub_test/event/y2021_rev/familymonth/web/tab02.html"  
+            }, {
+                "category" : "promotion",
+                "title" : "가정의달 tab3",
+                "url" : "/pub_test/event/y2021_rev/familymonth/web/tab03.html" 
+            }, {
+                "category" : "promotion",
+                "title" : "히트브랜드 상반기",
+                "url" : "/pub_test/event/y2021_rev/hitbrand/jun/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "히트브랜드 하반기",
+                "url" : "/pub_test/event/y2021_rev/hitbrand/dec/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "새학기 tab1",
+                "url" : "/pub_test/event/y2021_rev/new_semester/web/tab01.html"
+            }, {
+                "category" : "promotion",
+                "title" : "새학기 tab2",
+                "url" : "/pub_test/event/y2021_rev/new_semester/web/tab02.html"
+            }, {
+                "category" : "promotion",
+                "title" : "새학기 tab3",
+                "url" : "/pub_test/event/y2021_rev/newyear/web/tab03.html"
+            }, {
+                "category" : "promotion",
+                "title" : "pick",
+                "url" : "/pub_test/event/y2021_rev/pick/web/index.html"  
+            }, {
+                "category" : "promotion",
+                "title" : "쇼핑혜택",
+                "url" : "/pub_test/event/y2021_rev/shopping_benefits/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "스마트 택배",
+                "url" : "/pub_test/event/y2021_rev/smartdelivery/index.html" 
+            }, {
+                "category" : "promotion",
+                "title" : "씨알텍 스마트스토어",
+                "url" : "/pub_test/event/y2021_rev/smartstore_crtek/web/index.html" 
+            }, {
+                "category" : "promotion",
+                "title" : "표준pc",
+                "url" : "/pub_test/event/y2021_rev/standardpc/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "무더위 프로모션 tab1",
+                "url" : "/pub_test/event/y2021_rev/summer_pro/web/index_lottery.html"
+            }, {
+                "category" : "promotion",
+                "title" : "무더위 프로모션 tab2",
+                "url" : "/pub_test/event/y2021_rev/summer_pro/web/index_timesale.html"  
+            }, {
+                "category" : "promotion",
+                "title" : "무더위 프로모션 tab3",
+                "url" : "/pub_test/event/y2021_rev/summer_pro/web/index_plan.html" 
+            }, {
+                "category" : "promotion",
+                "title" : "쓰리고pc",
+                "url" : "/pub_test/event/y2021_rev/threegopc/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "VIP 혜택",
+                "url" : "/pub_test/event/y2021_rev/vip/web/index_dec.html"
+            }, {
+                "category" : "promotion",
+                "title" : "겨울 프로모션 tab1",
+                "url" : "/pub_test/event/y2021_rev/winter_pro/web/tab1.html" 
+            }, {
+                "category" : "promotion",
+                "title" : "겨울 프로모션 tab2",
+                "url" : "/pub_test/event/y2021_rev/winter_pro/web/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title" : "겨울 프로모션 tab3",
+                "url" : "/pub_test/event/y2021_rev/winter_pro/web/tab3.html"
+            }, {
+                "category" : "promotion",
+                "title" : "성탄절 프로모션 tab1",
+                "url" : "/pub_test/event/y2021_rev/xmas_pro/web/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title" : "성탄절 프로모션 tab2",
+                "url" : "/pub_test/event/y2021_rev/xmas_pro/web/tab1.html" 
+            }, {
+                "category" : "promotion",
+                "title" : "성탄절 프로모션 tab3",
+                "url" : "/pub_test/event/y2021_rev/xmas_pro/web/tab3.html"
+            }, {
+                "category" : "promotion",
+                "title" : "출석 & 룰렛 혜택 프로모션",
+                "url" : "/pub_test/event/y2022/attendance/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "브랜드스토어 이벤트",
+                "url" : "/pub_test/event/y2022/brandstore_pro/web/index.html"  
+            }, {
+                "category" : "promotion",
+                "title" : "생일 & 컴백 혜택 프로모션",
+                "url" : "/pub_test/event/y2022/buy_birth/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "웰컴 혜택 (신규회원 혜택) 프로모션",
+                "url" : "/pub_test/event/y2022/buy_first/web/july/newmember.html"
+            }, {
+                "category" : "promotion",
+                "title" : "웰컴 혜택 (웰컴 혜택) 프로모션",
+                "url" : "/pub_test/event/y2022/buy_first/web/july/welcome.html"
+            }, {
+                "category" : "promotion",
+                "title" : "웰컴 혜택 (초대 혜택) 프로모션",
+                "url" : "/pub_test/event/y2022/buy_first/web/july/invite.html"             
+            }, {
+                "category" : "promotion",
+                "title" : "구매 프로모션",
+                "url" : "/pub_test/event/y2022/buy_stamp/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "혜택배너",
+                "url" : "/pub_test/event/y2022/common/benefit.html"
+            }, {
+                "category" : "promotion",
+                "title" : "유의사항(공통)",
+                "url" : "/pub_test/event/y2022/common/notice.html"
+            }, {
+                "category" : "promotion",
+                "title" : "e클럽 오픈",
+                "url" : "/pub_test/event/y2022/eclub_launch/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "가정의달 tab1",
+                "url" : "/pub_test/event/y2022/familymonth/web/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title" : "가정의달 tab2",
+                "url" : "/pub_test/event/y2022/familymonth/web/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title" : "히트브랜드 상반기",
+                "url" : "/pub_test/event/y2022/hitbrand/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "새학기 tab1",
+                "url" : "/pub_test/event/y2022/newsemester_pro/web/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title" : "새학기 tab2",
+                "url" : "/pub_test/event/y2022/newsemester_pro/web/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title" : "새해 tab1",
+                "url" : "/pub_test/event/y2022/newyear_pro/web/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title" : "새해 tab2",
+                "url" : "/pub_test/event/y2022/newyear_pro/web/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title" : "새해 tab3",
+                "url" : "/pub_test/event/y2022/newyear_pro/web/tab3.html"
+            }, {
+                "category" : "promotion",
+                "title" : "쇼핑매니저 tab1",
+                "url" : "/pub_test/event/y2022/shopmanager_pro/july/web/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title" : "쇼핑매니저 tab2",
+                "url" : "/pub_test/event/y2022/shopmanager_pro/july/web/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title" : "무더위 프로모션",
+                "url" : "/pub_test/event/y2022/summer/web/index.html"
+            }, {
+                "category" : "promotion",
+                "title" : "VIP 혜택",
+                "url" : "/pub_test/event/y2021_rev/vip/web/index_dec.html"
+            }, {    
+                "category" : "globalshopping",
+                "title" : "해외쇼핑가이드",
+                "url" : "/pub_test/global/guide.html"
+            }, {
+                "category" : "globalshopping",
+                "title" : "해외직구",
+                "url" : "/pub_test/global/index.html"
+            }, {
+                "category" : "globalshopping",
+                "title" : "해외직구 리스트 카테고리 lp",
+                "url" : "/pub_test/global/lp_cate.html"
+            }, {
+                "category" : "globalshopping",
+                "title" : "해외직구 리스트 이벤트샵 lp",
+                "url" : "/pub_test/global/lp_event.html"
+            }, {
+                "category" : "globalshopping",
+                "title" : "해외직구 리스트 미국샵 lp",
+                "url" : "/pub_test/global/lp.html"
+            }, {
+                "category" : "globalshopping",
+                "title" : "해외직구 검색 srp",
+                "url" : "/pub_test/global/srp.html"
+            }, {
+                "category" : "globalshopping",
+                "title" : "해외직구 상세페이지 vip",
+                "url" : "/pub_test/global/vip.html"
+            }, {
+                "category" : "eclub",    
+                "title" : "카드혜택",
+                "url" : "/pub_test/web/home_rev/myeclub/benefit_card.html"
+            }, {
+                "category" : "eclub",
+                "title" : "e쿠폰함",
+                "url" : "/pub_test/web/home_rev/myeclub/coupon.html"
+            }, {
+                "category" : "eclub",
+                "title" : "e머니",
+                "url" : "/pub_test/web/home_rev/myeclub/emoney.html"
+            }, {
+                "category" : "eclub",
+                "title" : "견적관리",
+                "url" : "/pub_test/web/home_rev/myeclub/estimate_mycar.html"
+            }, {
+                "category" : "eclub",
+                "title" : "자동차견적관리",
+                "url" : "/pub_test/web/home_rev/myeclub/estimate_quote_view.html"
+            }, {
+                "category" : "eclub",
+                "title" : "신차견적관리",
+                "url" : "/pub_test/web/home_rev/myeclub/estimate_quote.html"
+            }, {
+                "category" : "eclub",
+                "title" : "푸터",
+                "url" : "/pub_test/web/home_rev/myeclub/footer.html"
+            }, {
+                "category" : "eclub",
+                "title" : "헤더",
+                "url" : "/pub_test/web/home_rev/myeclub/header.html"
+            }, {
+                "category" : "eclub",
+                "title" : "마이e클럽 홈",
+                "url" : "/pub_test/web/home_rev/myeclub/index.html"
+            }, {
+                "category" : "eclub",
+                "title" : "최근 본 카테고리",
+                "url" : "/pub_test/web/home_rev/myeclub/recent_category.html"
+            }, {
+                "category" : "eclub",
+                "title" : "최근 본 상품",
+                "url" : "/pub_test/web/home_rev/myeclub/recent_goods.html"
+            }, {
+                "category" : "eclub",
+                "title" : "최근 본 키워드",
+                "url" : "/pub_test/web/home_rev/myeclub/recent_keyword.html"
+            }, {
+                "category" : "eclub",
+                "title" : "쇼핑리포트",
+                "url" : "/pub_test/web/home_rev/myeclub/shopping_report.html"
+            }, {
+                "category" : "eclub",
+                "title" : "찜한 브랜드스토어",
+                "url" : "/pub_test/web/home_rev/myeclub/zzim_brandstore.html"
+            }, {
+                "category" : "eclub",
+                "title" : "찜상품",
+                "url" : "/pub_test/web/home_rev/myeclub/zzim.html"
+            }, {
+                "category" : "car",
+                "title" : "세부모델",
+                "url" : "/pub_test/newcar/comp_model.html"
+            }, {
+                "category" : "car",
+                "title" : "신차견적",
+                "url" : "/pub_test/newcar/estimate.html"
+            }, {
+                "category" : "car",
+                "title" : "푸터",
+                "url" : "/pub_test/newcar/footer.html"
+            }, {
+                "category" : "car",
+                "title" : "헤더",
+                "url" : "/pub_test/newcar/header.html"
+            }, {
+                "category" : "car",
+                "title" : "자동차 홈",
+                "url" : "/pub_test/newcar/index.html"
+            }, {
+                "category" : "car",
+                "title" : "내차사기",
+                "url" : "/pub_test/newcar/intro_score.html"
+            }, {
+                "category" : "car",
+                "title" : "자동차 홈",
+                "url" : "/pub_test/newcar/intro_sell_mycar.html"
+            }, {
+                "category" : "car",
+                "title" : "내차팔기",
+                "url" : "/pub_test/newcar/intro_sellmycar.html"
+            }, {
+                "category" : "car",
+                "title" : "레이어",
+                "url" : "/pub_test/newcar/layer.html"
+            }, {
+                "category" : "car",
+                "title" : "즉시출고",
+                "url" : "/pub_test/newcar/list_immediate.html"
+            }, {
+                "category" : "car",
+                "title" : "중고차",
+                "url" : "/pub_test/newcar/list_model_used.html"
+            }, {
+                "category" : "car",
+                "title" : "신차견적",
+                "url" : "/pub_test/newcar/list_model.html"
+            }, {
+                "category" : "car",
+                "title" : "내차견적결과",
+                "url" : "/pub_test/newcar/mycar_quote_result.html"
+            }, {
+                "category" : "car",
+                "title" : "내차견적",
+                "url" : "/pub_test/newcar/mycar_quote.html"
+            }, {
+                "category" : "car",
+                "title" : "차량비교",
+                "url" : "/pub_test/newcar/usedcar_compare_view.html"
+            }, {
+                "category" : "car",
+                "title" : "즉시출고목록",
+                "url" : "/pub_test/newcar/view_immediate.html"
+            }, {
+                "category" : "car",
+                "title" : "모델정보",
+                "url" : "/pub_test/newcar/view_model.html"
+            }, {
+                "category" : "car",
+                "title" : "견적관리",
+                "url" : "/pub_test/web/home/myenuri/my_car_estimate.html"
+            }, {
+                "category" : "car",
+                "title" : "내차시세관리",
+                "url" : "/pub_test/web/home/myenuri/my_car_qoute.html"
+            }, {
+                "category" : "car",
+                "title" : "견적관리",
+                "url" : "/pub_test/web/home/myenuri/my_car_estimate_sub.html"
+            }, {
+                "category" : "car",
+                "title" : "금융비교",
+                "url" : "/pub_test/newcar/comp_finance.html"
+            }, {
+                "category" : "emoney",
+                "title" : "my에누리 e머니",
+                "url" : "/pub_test/web/home/myenuri/my_emoney.html"
+            }, {
+                "category" : "emoney",
+                "title" : "적립예정e머니",
+                "url" : "/pub_test/web/home/myenuri/my_main.html"
+            }, {
+                "category" : "emoney",
+                "title" : "e머니 적립내역",
+                "url" : "web/home/knowcom/myshop_emoney_m.html"
+            }, {
+                "category" : "emoney",
+                "title" : "마이 e머니",
+                "url" : "/pub_test/web/home/knowcom/myshop_emoney.html"
+            }, {
+                "category" : "member",
+                "title" : "임시 비밀번호 발급 안내",
+                "url" : "/pub_test/web/member/find_dm_temporpw.html"
+            }, {
+                "category" : "member",
+                "title" : "이메일로 아이디찾기",
+                "url" : "/pub_test/web/member/find_id_email.html"
+            }, {
+                "category" : "member",
+                "title" : "정보없음",
+                "url" : "/pub_test/web/member/find_id_noresult.html"
+            }, {
+                "category" : "member",
+                "title" : "휴대폰번호로 아이디찾기",
+                "url" : "/pub_test/web/member/find_id_phone.html"
+            }, {
+                "category" : "member",
+                "title" : "아이디찾기결과",
+                "url" : "/pub_test/web/member/find_id_result.html"
+            }, {
+                "category" : "member",
+                "title" : "이메일로 비밀번호찾기",
+                "url" : "/pub_test/web/member/find_pw_email.html"
+            }, {
+                "category" : "member",
+                "title" : "이메일로 비밀번호찾기",
+                "url" : "/pub_test/web/member/find_pw_email2.html"
+            }, {
+                "category" : "member",
+                "title" : "비밀번호찾기",
+                "url" : "/pub_test/web/member/find_pw_newpw.html"
+            }, {
+                "category" : "member",
+                "title" : "휴대폰번호로 비밀번호찾기",
+                "url" : "/pub_test/web/member/find_pw_phone2.html"
+            }, {
+                "category" : "member",
+                "title" : "본인인증으로 비밀번호찾기",
+                "url" : "/pub_test/web/member/find_pw_verify.html"
+            }, {
+                "category" : "member",
+                "title" : "회원가입",
+                "url" : "/pub_test/web/member/join_imp.html"
+            }, {
+                "category" : "member",
+                "title" : "sns회원가입",
+                "url" : "/pub_test/web/member/join_sns_gate.html"
+            }, {
+                "category" : "member",
+                "title" : "개인회원 회원가입",
+                "url" : "/pub_test/web/member/join_social.html"
+            }, {
+                "category" : "member",
+                "title" : "잠금해제",
+                "url" : "/pub_test/web/member/join_unlock.html"
+            }, {
+                "category" : "member",
+                "title" : "개인회원 회원가입",
+                "url" : "/pub_test/web/member/join1.html"
+            }, {
+                "category" : "member",
+                "title" : "개인회원 회원가입",
+                "url" : "/pub_test/web/member/join2.html"
+            }, {
+                "category" : "member",
+                "title" : "쇼핑몰판매자 회원가입",
+                "url" : "/pub_test/web/member/join3.html"
+            }, {
+                "category" : "member",
+                "title" : "쇼핑몰판매자 회원가입",
+                "url" : "/pub_test/web/member/join4.html"
+            }, {
+                "category" : "member",
+                "title" : "오픈마켓판매자 회원가입",
+                "url" : "/pub_test/web/member/join5.html"
+            }, {
+                "category" : "member",
+                "title" : "회원정보입력",
+                "url" : "/pub_test/web/member/join6_agency.html"
+            }, {
+                "category" : "member",
+                "title" : "닉네임중복확인",
+                "url" : "/pub_test/web/member/join6.html"
+            }, {
+                "category" : "member",
+                "title" : "로그인",
+                "url" : "/pub_test/web/member/join7.html"
+            }, {
+                "category" : "member",
+                "title" : "비밀번호 재확인",
+                "url" : "/pub_test/web/member/join8.html"
+            }, {
+                "category" : "member",
+                "title" : "휴면해제",
+                "url" : "/pub_test/web/member/join9.html"
+            }, {
+                "category" : "member",
+                "title" : "휴면해제신청",
+                "url" : "/pub_test/web/member/join10.html"
+            }, {
+                "category" : "member",
+                "title" : "sns 회원가입",
+                "url" : "/pub_test/web/member/join11.html"
+            }, {
+                "category" : "member",
+                "title" : "sns 회원가입",
+                "url" : "/pub_test/web/member/join12.html"
+            }, {
+                "category" : "member",
+                "title" : "회원레이어",
+                "url" : "/pub_test/web/member/layer_after_login.html"
+            }, {
+                "category" : "member",
+                "title" : "마이페이지정보",
+                "url" : "/pub_test/web/member/my_page.html"
+            }, {
+                "category" : "member",
+                "title" : "휴면해제신청",
+                "url" : "/pub_test/web/member/release_dormancy.html"
+            }, {
+                "category" : "member",
+                "title" : "회원정보관리",
+                "url" : "/pub_test/web/member/sns_mypage.html"
+            }, {
+                "category" : "member",
+                "title" : "비밀번호확인",
+                "url" : "/pub_test/web/member/sns_pw_confirm.html"
+            }, {
+                "category" : "member",
+                "title" : "sns회원 본인인증",
+                "url" : "/pub_test/web/member/sns_verify.html"
+            }, {
+                "category" : "member",
+                "title" : "회원url",
+                "url" : "/pub_test/web/member/url.html"
+            }, {
+                "category" : "mockup",
+                "title" : "지금 잘나가는 상품",
+                "url" : "/pub_test/mockup/reporting/210330/best.html"
+            }, {
+                "category" : "mockup",
+                "title" : "에누리 쇼핑혜택 이벤트",
+                "url" : "/pub_test/mockup/reporting/210330/event.html"
+            }, {
+                "category" : "mockup",
+                "title" : "지금잘나가는상품 시안",
+                "url" : "/pub_test/mockup/reporting/210330/main_best.html"
+            }, {
+                "category" : "mockup",
+                "title" : "혜택존",
+                "url" : "/pub_test/mockup/reporting/210330/main_event.html"
+            }, {
+                "category" : "mockup",
+                "title" : "최저가추이",
+                "url" : "/pub_test/mockup/reporting/210330/main_mcss.html"
+            }, {
+                "category" : "mockup",
+                "title" : "최저가추의analytics",
+                "url" : "/pub_test/mockup/reporting/210330/mcss.html"
+            }, {
+                "category" : "mockup",
+                "title" : "메인홈",
+                "url" : "/pub_test/mockup/reporting/210414/homemain.html"
+            }, {
+                "category" : "mockup",
+                "title" : "메인 시안",
+                "url" : "/pub_test/mockup/reporting/210414/homemain.html"
+            }, {
+                "category" : "mockup",
+                "title" : "홈상단",
+                "url" : "/pub_test/mockup/reporting/210504/hometop.html"
+            }, {
+                "category" : "mockup",
+                "title" : "오늘의 뉴스 시안",
+                "url" : "/pub_test/mockup/reporting/210504/main_news.html"
+            }, {
+                "category" : "mockup",
+                "title" : "pick 시안",
+                "url" : "/pub_test/mockup/reporting/210504/main_pick.html"
+            }, {
+                "category" : "mockup",
+                "title" : "홈상단 시안",
+                "url" : "/pub_test/mockup/reporting/210504/main_top.html"
+            }, {
+                "category" : "mockup",
+                "title" : "오늘의 뉴스",
+                "url" : "/pub_test/mockup/reporting/210504/news.html"
+            }, {
+                "category" : "mockup",
+                "title" : "pick 시안",
+                "url" : "/pub_test/mockup/reporting/210504/pick.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "주문상품",
+                "url" : "/pub_test/web/home/knowcom/payment/eventzone_payment.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "주문상품",
+                "url" : "/pub_test/web/home/knowcom/payment/unboxing_payment.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식",
+                "url" : "/pub_test/web/home/knowcom/renew/eventzone.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "에누리tv",
+                "url" : "/pub_test/web/home/knowcom/renew/list_enuritv.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "자유게시판",
+                "url" : "/pub_test/web/home/knowcom/renew/list_freeboard.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 리스트",
+                "url" : "/pub_test/web/home/knowcom/renew/list_mockup.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 뉴스",
+                "url" : "/pub_test/web/home/knowcom/renew/list_news.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 공지",
+                "url" : "/pub_test/web/home/knowcom/renew/list_notice.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "에누리뷰",
+                "url" : "/pub_test/web/home/knowcom/renew/list_nurigo.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑q&a",
+                "url" : "/pub_test/web/home/knowcom/renew/list_qna.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 검색결과",
+                "url" : "/pub_test/web/home/knowcom/renew/list_result.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 사용기",
+                "url" : "/pub_test/web/home/knowcom/renew/list_review.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "슬롯",
+                "url" : "/pub_test/web/home/knowcom/slot(example)/slot.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "관련상품추가",
+                "url" : "/pub_test/web/home/knowcom/admin_layer_modelsearch.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 이벤트존",
+                "url" : "/pub_test/web/home/knowcom/eventzone.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 출석이벤트",
+                "url" : "/pub_test/web/home/knowcom/evt_attendance.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 이벤트",
+                "url" : "/pub_test/web/home/knowcom/evt_emoney_gift_v2.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 이벤트",
+                "url" : "/pub_test/web/home/knowcom/evt_emoney_gift.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 누리go",
+                "url" : "/pub_test/web/home/knowcom/evt_eventzone_view.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 체험단",
+                "url" : "/pub_test/web/home/knowcom/evt_exp_unboxing.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 체험단",
+                "url" : "/pub_test/web/home/knowcom/evt_grade_renewal.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 누리go",
+                "url" : "/pub_test/web/home/knowcom/evt_nurigo_open.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "슬롯리뉴얼",
+                "url" : "/pub_test/web/home/knowcom/evt_slotmachine_renewal.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "슬롯",
+                "url" : "/pub_test/web/home/knowcom/evt_slotmachine.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "슬롯",
+                "url" : "/pub_test/web/home/knowcom/evt_slotmachine(iex).html"
+            }, {
+                "category" : "knowcom",
+                "title" : "푸터",
+                "url" : "/pub_test/web/home/knowcom/footer.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 홈",
+                "url" : "/pub_test/web/home/knowcom/index.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "공유하기 레이어",
+                "url" : "/pub_test/web/home/knowcom/layer_share.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "신고하기 레이어",
+                "url" : "/pub_test/web/home/knowcom/layer.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "에누리tv",
+                "url" : "/pub_test/web/home/knowcom/list_enuritv.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "체험단 모집중체험단",
+                "url" : "/pub_test/web/home/knowcom/list_exp_apy.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "체험단 종료된체험단",
+                "url" : "/pub_test/web/home/knowcom/list_exp_end.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "체험단 리뷰등록중",
+                "url" : "/pub_test/web/home/knowcom/list_exp_rvw.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "체험단 게시판",
+                "url" : "/pub_test/web/home/knowcom/list_exp_tester.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 공지",
+                "url" : "/pub_test/web/home/knowcom/list_gongji.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 뉴스",
+                "url" : "/pub_test/web/home/knowcom/list_news.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 자유게시판",
+                "url" : "/pub_test/web/home/knowcom/list_nuri.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "누리go 이벤트 참여 정보 입력",
+                "url" : "/pub_test/web/home/knowcom/list_nurigo_join_m.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "누리go",
+                "url" : "/pub_test/web/home/knowcom/list_nurigo.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑q&a",
+                "url" : "/pub_test/web/home/knowcom/list_nurigo.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "검색결과없음",
+                "url" : "/pub_test/web/home/knowcom/list_result_none.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "검색결과",
+                "url" : "/pub_test/web/home/knowcom/list_result.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "사용기",
+                "url" : "/pub_test/web/home/knowcom/list_review.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "e머니 적립내역",
+                "url" : "web/home/knowcom/myshop_emoney_m.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "마이 e머니",
+                "url" : "/pub_test/web/home/knowcom/myshop_emoney.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "활동내역",
+                "url" : "/pub_test/web/home/knowcom/myshop_main.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "my쇼핑지식",
+                "url" : "/pub_test/web/home/knowcom/myshop_reply.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 홈",
+                "url" : "/pub_test/web/home/knowcom/quickbar.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 오른쪽",
+                "url" : "/pub_test/web/home/knowcom/right_wing.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "가격창",
+                "url" : "/pub_test/web/home/knowcom/specModelPrice.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식url",
+                "url" : "/pub_test/web/home/knowcom/url.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑지식 출석",
+                "url" : "/pub_test/web/home/knowcom/view_attend.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "에누리tv",
+                "url" : "/pub_test/web/home/knowcom/view_enuritv.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "체험단 제휴문의",
+                "url" : "/pub_test/web/home/knowcom/view_exp_aln.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "체험단 모집중체험단",
+                "url" : "/pub_test/web/home/knowcom/view_exp_apy.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "체험단 종료된체험단",
+                "url" : "/pub_test/web/home/knowcom/view_exp_end.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "체험단 리뷰등록중",
+                "url" : "/pub_test/web/home/knowcom/view_exp_rvw.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "체험단 게시판",
+                "url" : "/pub_test/web/home/knowcom/view_exp_tester.html<"
+            }, {
+                "category" : "knowcom",
+                "title" : "이벤트게시판",
+                "url" : "/pub_test/web/home/knowcom/view_expgroup.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "뉴스상세",
+                "url" : "/pub_test/web/home/knowcom/view_news_admin.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "뉴스댓글",
+                "url" : "/pub_test/web/home/knowcom/view_news_reply_mockup200708.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "뉴스상세",
+                "url" : "/pub_test/web/home/knowcom/view_news_reply.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "뉴스상세",
+                "url" : "/pub_test/web/home/knowcom/view_news.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "쇼핑q&a",
+                "url" : "/pub_test/web/home/knowcom/view_qna.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "뉴스상세",
+                "url" : "/pub_test/web/home/knowcom/view_swipe.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "문의글 작성",
+                "url" : "/pub_test/web/home/knowcom/write_bargan.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "에누리tv",
+                "url" : "/pub_test/web/home/knowcom/write_enuritv.html"
+            }, {
+                "category" : "knowcom",
+                "title" : "체험단게시판 문의하기",
+                "url" : "/pub_test/web/home/knowcom/write_exp_tester.html"
+            }, {
+                "category" : "core",
+                "title" : "브랜드스토어 lp",
+                "url" : "/pub_test/web/home_rev/brandstore_lp.html"
+            }, {
+                "category" : "core",
+                "title" : "브랜드스토어",
+                "url" : "/pub_test/web/home_rev/brandstore_recom.html"
+            }, {
+                "category" : "core",
+                "title" : "zum",
+                "url" : "/pub_test/web/home_rev/zum/index.html"
+            }, {
+                "category" : "core",
+                "title" : "레이아웃",
+                "url" : "/pub_test/web/home_rev/common_layout.html"
+            }, {
+                "category" : "core",
+                "title" : "e클럽 혜택",
+                "url" : "/pub_test/web/home_rev/eclub.html"
+            }, {
+                "category" : "core",
+                "title" : "고객 행복센터",
+                "url" : "/pub_test/web/home_rev/etc_layout.html"
+            }, {
+                "category" : "core",
+                "title" : "쇼핑몰 검색",
+                "url" : "/pub_test/web/home_rev/findmall.html"
+            }, {
+                "category" : "core",
+                "title" : "에누리홈",
+                "url" : "/pub_test/web/home_rev/index.html"
+            }, {
+                "category" : "core",
+                "title" : "lp",
+                "url" : "/pub_test/web/home_rev/lp.html"
+            }, {
+                "category" : "core",
+                "title" : "사이트맵",
+                "url" : "/pub_test/web/home_rev/sitemap.html"
+            }, {
+                "category" : "core",
+                "title" : "srp",
+                "url" : "/pub_test/web/home_rev/srp.html"
+            }, {
+                "category" : "core",
+                "title" : "공통 탬플릿",
+                "url" : "/pub_test/web/home_rev/template.html"
+            }, {
+                "category" : "core",
+                "title" : "vip",
+                "url" : "/pub_test/web/home_rev/vip.html"
+            }, {
+                "category" : "core",
+                "title" : "my에누리",
+                "url" : "/pub_test/web/home/myenuri/my_main_no_cert.html"
+            }, {
+                "category" : "core",
+                "title" : "광고로그인",
+                "url" : "/pub_test/web/home/ad_login.html"
+            }, {
+                "category" : "core",
+                "title" : "알툴바",
+                "url" : "/pub_test/web/home/altoolbar_brdge.html"
+            }, {
+                "category" : "core",
+                "title" : "즐겨찾기광고",
+                "url" : "/pub_test/web/home/bridge_ext_ad.html"
+            }, {
+                "category" : "core",
+                "title" : "쇼핑베스트",
+                "url" : "/pub_test/web/home/bridge_shopbest.html"
+            }, {
+                "category" : "core",
+                "title" : "자동차레이어",
+                "url" : "/pub_test/web/home/car_layer.html"
+            }, {
+                "category" : "core",
+                "title" : "상품비교창",
+                "url" : "/pub_test/web/home/compare_product.html"
+            }, {
+                "category" : "core",
+                "title" : "구버전 서비스 종료",
+                "url" : "/pub_test/web/home/end.html"
+            }, {
+                "category" : "core",
+                "title" : "페이지오류",
+                "url" : "/pub_test/web/home/error404.html"
+            }, {
+                "category" : "core",
+                "title" : "찾아줘마스크",
+                "url" : "/pub_test/web/home/findmask.html"
+            }, {
+                "category" : "core",
+                "title" : "푸터",
+                "url" : "/pub_test/web/home/footer.html"
+            }, {
+                "category" : "core",
+                "title" : "네비게이션확장",
+                "url" : "/pub_test/web/home/gnb_wide.html"
+            }, {
+                "category" : "core",
+                "title" : "네비게이션",
+                "url" : "/pub_test/web/home/gnb.html"
+            }, {
+                "category" : "core",
+                "title" : "레이어모음",
+                "url" : "/pub_test/web/home/layer.html"
+            }, {
+                "category" : "core",
+                "title" : "로그인레이어",
+                "url" : "/pub_test/web/home/login_layer.html"
+            }, {
+                "category" : "core",
+                "title" : "성인용품lp",
+                "url" : "/pub_test/web/home/lp_adult.html"
+            }, {
+                "category" : "core",
+                "title" : "베스트lp",
+                "url" : "/pub_test/web/home/lp_best.htm"
+            }, {
+                "category" : "core",
+                "title" : "도서lp",
+                "url" : "/pub_test/web/home/lp_book.html"
+            }, {
+                "category" : "core",
+                "title" : "명품lp",
+                "url" : "/pub_test/web/home/lp_luxury.html"
+            }, {
+                "category" : "core",
+                "title" : ">마스크lp",
+                "url" : "/pub_test/web/home/lp_mask.html"
+            }, {
+                "category" : "core",
+                "title" : "lp",
+                "url" : "/pub_test/web/home/lp_minivip_tab.html"
+            }, {
+                "category" : "core",
+                "title" : "lp",
+                "url" : "/pub_test/web/home/lp_minivip.html"
+            }, {
+                "category" : "core",
+                "title" : "pc lp",
+                "url" : "/pub_test/web/home/lp_pc.html"
+            }, {
+                "category" : "core",
+                "title" : "중고차lp",
+                "url" : "/pub_test/web/home/lp_reborncar.html"
+            }, {
+                "category" : "core",
+                "title" : "슈퍼탑 lp",
+                "url" : "/pub_test/web/home/lp_supertop.html"
+            }, {
+                "category" : "core",
+                "title" : "lp",
+                "url" : "/pub_test/web/home/lp.html"
+            }, {
+                "category" : "core",
+                "title" : "쇼핑몰검색리스트",
+                "url" : "/pub_test/web/home/mallsearch_list.html"
+            }, {
+                "category" : "core",
+                "title" : "에누리 빅매치",
+                "url" : "/pub_test/web/home/match.html"
+            }, {
+                "category" : "core",
+                "title" : "미니vip",
+                "url" : "/pub_test/web/home/minivip_tab.html"
+            }, {
+                "category" : "core",
+                "title" : "미니vip",
+                "url" : "/pub_test/web/home/minivip_tab2.html"
+            }, {
+                "category" : "core",
+                "title" : "미니vip",
+                "url" : "/pub_test/web/home/minivip.html"
+            }, {
+                "category" : "core",
+                "title" : "미니vip",
+                "url" : "/pub_test/web/home/minivip2.html"
+            }, {
+                "category" : "core",
+                "title" : "미니vip",
+                "url" : "/pub_test/web/home/minivip3.html"
+            }, {
+                "category" : "core",
+                "title" : "주문/결제 팝업",
+                "url" : "/pub_test/web/home/popup.html"
+            }, {
+                "category" : "core",
+                "title" : "심플헤더",
+                "url" : "/pub_test/web/home/simple_header.html"
+            }, {
+                "category" : "core",
+                "title" : "중고차srp",
+                "url" : "/pub_test/web/home/srp_reborncar.html"
+            }, {
+                "category" : "core",
+                "title" : "srp",
+                "url" : "/pub_test/web/home/table.html"
+            }, {
+                "category" : "core",
+                "title" : "카테고리테이블",
+                "url" : "/pub_test/web/home/table.html"
+            }, {
+                "category" : "core",
+                "title" : "url",
+                "url" : "/pub_test/web/home/url.html"
+            }, {
+                "category" : "core",
+                "title" : "도서vip",
+                "url" : "/pub_test/web/home/vip_book.html"
+            }, {
+                "category" : "core",
+                "title" : "상품설명",
+                "url" : "/pub_test/web/home/vip_cermark.html"
+            }, {
+                "category" : "core",
+                "title" : "vip",
+                "url" : "/pub_test/web/home/vip_renew.html"
+            }, {
+                "category" : "core",
+                "title" : "vip",
+                "url" : "/pub_test/web/home/vip_rental.html"
+            }, {
+                "category" : "core",
+                "title" : "vip top",
+                "url" : "/pub_test/web/home/vip_top1.html"
+            }, {
+                "category" : "core",
+                "title" : "vip top",
+                "url" : "/pub_test/web/home/vip_top2.html"
+            }, {
+                "category" : "core",
+                "title" : "vip top",
+                "url" : "/pub_test/web/home/vip_top3.html"
+            }, {
+                "category" : "core",
+                "title" : "vip top",
+                "url" : "/pub_test/web/home/vip_top4.html"
+            }, {
+                "category" : "core",
+                "title" : "vip",
+                "url" : "/pub_test/web/home/vip.html"
+            }, {
+                "category" : "core",
+                "title" : "사이드",
+                "url" : "/pub_test/web/home/wing.html"
+            }, {
+                "category" : "core",
+                "title" : "bi",
+                "url" : "/pub_test/web/home_rev/corp/bi.html"
+            }, {
+                "category" : "core",
+                "title" : "오시는길",
+                "url" : "/pub_test/web/home_rev/corp/contact.html"
+            }, {
+                "category" : "core",
+                "title" : "회사연혁",
+                "url" : "/pub_test/web/home_rev/corp/history.html"
+            }, {
+                "category" : "core",
+                "title" : "에누리 소개",
+                "url" : "/pub_test/web/home_rev/corp/intro.html"
+            }, {
+                "category" : "core",
+                "title" : "제휴안내",
+                "url" : "/pub_test/web/home_rev/corp/partner.html"
+            }, {
+                "category" : "core",
+                "title" : "언론보도",
+                "url" : "/pub_test/web/home_rev/corp/press_view.html"
+            }, {
+                "category" : "core",
+                "title" : "언론보도 작성",
+                "url" : "/pub_test/web/home_rev/corp/press_write.html"
+            }, {
+                "category" : "core",
+                "title" : "언론보도",
+                "url" : "/pub_test/web/home_rev/corp/press.html"
+            }, {
+                "category" : "sdu",
+                "title" :"스마트스토어 매출연동 수수료 납부",
+                "url" : "/pub_test/sdu/fees_step1.html"
+            }, {
+                "category" : "sdu",
+                "title" :"스마트스토어 매출연동 수수료 결제",
+                "url" : "/pub_test/sdu/fees_step2.html"
+            }, {
+                "category" : "sdu",
+                "title" :"운영이력",
+                "url" : "/pub_test/sdul/agency_history.html"
+            }, {
+                "category" : "sdu",
+                "title" :"광고주관리",
+                "url" : "/pub_test/sdul/agency_manager.html"
+            }, {
+                "category" : "sdu",
+                "title" :"정산관리",
+                "url" : "/pub_test/sdul/agency_settlement.html"
+            }, {
+                "category" : "sdu",
+                "title" :"광고진행 현황",
+                "url" : "/pub_test/sdul/agency_status.html"
+            }, {
+                "category" : "sdu",
+                "title" :"슈퍼탑 구좌현황",
+                "url" : "/pub_test/sdul/agency_supertop_status.html"
+            }, {
+                "category" : "sdu",
+                "title" :"sdul 홈",
+                "url" : "/pub_test/sdul/index_agency.html"
+            }, {
+                "category" : "sdu",
+                "title" :"판매자광고센터 홈",
+                "url" : "/pub_test/sdul/index.html"
+            }, {
+                "category" : "sdu",
+                "title" :"sdul 레이어",
+                "url" : "/pub_test/sdul/layer.html"
+            }, {
+                "category" : "sdu",
+                "title" :"sdul 공지팝업",
+                "url" : "/pub_test/sdul/pop_notice.html"
+            }, {
+                "category" : "sdu",
+                "title" :"판매자 광고문구",
+                "url" : "/pub_test/sdul/sdul_adcopy_report.html"
+            }, {
+                "category" : "sdu",
+                "title" :"상위노출 입찰",
+                "url" : "/pub_test/sdul/sdul_bidding_report.html"
+            }, {
+                "category" : "sdu",
+                "title" :"상위노출 입찰",
+                "url" : "/pub_test/sdul/sdul_bidding.html"
+            }, {
+                "category" : "sdu",
+                "title" :"FAQ/게시판",
+                "url" : "/pub_test/sdul/sdul_board.html"
+            }, {
+                "category" : "sdu",
+                "title" :"카탈로그",
+                "url" : "/pub_test/sdul/sdul_catalog.html"
+            }, {
+                "category" : "sdu",
+                "title" :"입점안내",
+                "url" : "/pub_test/sdul/sdul_entering.html"
+            }, {
+                "category" : "sdu",
+                "title" :"판매자 가이드",
+                "url" : "/pub_test/sdul/sdul_guide.html"
+            }, {
+                "category" : "sdu",
+                "title" :"프라이스탑 광고",
+                "url" : "/pub_test/sdul/sdul_pricetop_history.html"
+            }, {
+                "category" : "sdu",
+                "title" :"프라이스탑 광고",
+                "url" : "/pub_test/sdul/sdul_pricetop.html"
+            }, {
+                "category" : "sdu",
+                "title" :"상품등록",
+                "url" : "/pub_test/sdul/sdul_register_upload.html"
+            }, {
+                "category" : "sdu",
+                "title" :"상품등록",
+                "url" : "/pub_test/sdul/sdul_register.html"
+            }, {
+                "category" : "sdu",
+                "title" :"슈퍼탑 광고",
+                "url" : "/pub_test/sdul/sdul_supertop_history.html"
+            }, {
+                "category" : "sdu",
+                "title" :"슈퍼탑 광고효과 보고서",
+                "url" : "/pub_test/sdul/sdul_supertop_report.html"
+            }, {
+                "category" : "sdu",
+                "title" :"슈퍼탑 광고 중지",
+                "url" : "/pub_test/sdul/sdul_supertop_stop.html"
+            }, {
+                "category" : "sdu",
+                "title" :"슈퍼탑 광고 등록",
+                "url" : "/pub_test/sdul/sdul_supertop.html"
+            }, {
+                "category" : "bridge",
+                "title" : "알툴바이동",
+                "url" : "/pub_test/web/move/bridge_altoolbar.html"
+            }, {
+                "category" : "bridge",
+                "title" : "줌이동",
+                "url" : "/pub_test/web/move/bridge_compare_zum.html"
+            }, {
+                "category" : "bridge",
+                "title" : "cj온스타일이동",
+                "url" : "/pub_test/web/move/bridge_compare.html"
+            }, {
+                "category" : "bridge",
+                "title" : "해당쇼핑몰이동",
+                "url" : "/pub_test/web/move/bridge_global.html"
+            }, {
+                "category" : "bridge",
+                "title" : "kb차차차이동",
+                "url" : "/pub_test/web/move/bridge_kbcha.html"
+            }, {
+                "category" : "bridge",
+                "title" : "리본이동",
+                "url" : "/pub_test/web/move/bridge_price_reborn.html"
+            }, {
+                "category" : "bridge",
+                "title" : "줌이동",
+                "url" : "/pub_test/web/move/bridge_price_zum.html"
+            }, {
+                "category" : "bridge",
+                "title" : "줌이동",
+                "url" : "/pub_test/web/move/bridge_price.html"
+            }, {
+                "category" : "bridge",
+                "title" : "줌이동",
+                "url" : "/pub_test/web/move/bridge_zum.html"
+            }, {
+                "category" : "bridge",
+                "title" : "cj온스타일이동",
+                "url" : "/pub_test/web/move/bridge.html"
+            }, {
+                "category" : "bridge",
+                "title" : "g마켓이동 쿠폰",
+                "url" : "/pub_test/web/move/movepg_coupon01.html"
+            }, {
+                "category" : "bridge",
+                "title" : "g마켓이동 쿠폰",
+                "url" : "/pub_test/web/move/movepg_coupon02.html"
+            }, {
+                "category" : "bridge",
+                "title" : "여행사이동",
+                "url" : "/pub_test/web/move/movepg_tour.html"
+            }, {
+                "category" : "bridge",
+                "title" : "g마켓이동",
+                "url" : "/pub_test/web/move/movepg.html"
+            }, {
+                "category" : "bridge",
+                "title" : "위메프이동",
+                "url" : "/pub_test/web/move/moving_hand.html"
+            }, {
+                "category" : "bridge",
+                "title" : "쇼핑몰이동",
+                "url" : "/pub_test/web/move/moving_new.html"
+            }, {
+                "category" : "bridge",
+                "title" : "딜바다이동",
+                "url" : "/pub_test/web/zum/bridge_dealbada.html"
+            }, {
+                "category" : "bridge",
+                "title" : "줌-에누리이동",
+                "url" : "/pub_test/web/zum/bridge1.html"
+            }, {
+                "category" : "bridge",
+                "title" : "줌-보리보리이동",
+                "url" : "/pub_test/web/zum/bridge2.html"
+            }, {
+                "category" : "bridge",
+                "title" : "청소년이용금지",
+                "url" : "/pub_test/web/zum/index_19.html"
+            }, {
+                "category" : "bridge",
+                "title" : "제품상세",
+                "url" : "/pub_test/web/zum/index.html"
+            }, {
+                "category" : "dm",
+                "title" : "광고성 정보 수신동의 안내 ",
+                "url" : "/pub_test/dm/dm_200110_opt-in-agreement.html"
+            }, {
+                "category" : "dm",
+                "title" : "스마트 스토어 입점 승인",
+                "url" : "/pub_test/dm/dm_200110_smart_store.html"
+            }, {
+                "category" : "dm",
+                "title" : "매출 연동 수수료 정산 안내(20.01.20)",
+                "url" : "/pub_test/dm/dm/dm_200110_smart_store.html"
+            }, {
+                "category" : "dm",
+                "title" : "개인정보 이용내역 안내(20.08.13)",
+                "url" : "/pub_test/dm/dm/dm_200813_privacy.html"
+            }, {
+                "category" : "dm",
+                "title" : "이메일 오발송 사과문",
+                "url" : "/pub_test/dm/dm/dm_201110_apology.html"
+            }, {
+                "category" : "dm",
+                "title" : "개인정보 이용내역 안내(21.08.13)",
+                "url" : "/pub_test/dm/dm/dm_210813_privacy.html"
+            }, {
+                "category" : "dm",
+                "title" : "매출 연동 수수료 정산 안내(22)",
+                "url" : "/pub_test/dm/dm/dm_220223_smart_store_calc.html"
+            }, {
+                "category" : "dm",
+                "title" : "스마트스토어 매출연동 수수료 상세내역",
+                "url" : "/pub_test/dm/dm/smartstore_data.html"
+            }, {
+                "category" : "mail",
+                "title" : "광고성 정보 수신동의 내역 안내",
+                "url" : "/pub_test/web/mailing/mailadinfo.html"
+            }, {
+                "category" : "mail",
+                "title" : "품절안내",
+                "url" : "/pub_test/web/mailing/mailBrandshopSoldout.html"
+            }, {
+                "category" : "mail",
+                "title" : "회사명변경안내 ",
+                "url" : "/pub_test/web/mailing/mailChangename.html"
+            }, {
+                "category" : "mail",
+                "title" : "답변등록안내",
+                "url" : "/pub_test/web/mailing/mailCustomercenter.html"
+            }, {
+                "category" : "mail",
+                "title" : "오류 처리 내역",
+                "url" : "/pub_test/web/mailing/mailError.html"
+            }, {
+                "category" : "mail",
+                "title" : "댓글알림",
+                "url" : "/pub_test/web/mailing/mailFaq.html"
+            }, {
+                "category" : "mail",
+                "title" : "찜상품안내",
+                "url" : "/pub_test/web/mailing/mailFavorite.html"
+            }, {
+                "category" : "mail",
+                "title" : "가격비교상품안내",
+                "url" : "/pub_test/web/mailing/mailInfo.html"
+            }, {
+                "category" : "mail",
+                "title" : "주문내역안내",
+                "url" : "/pub_test/web/mailing/mailmsorder.html"
+            }, {
+                "category" : "mail",
+                "title" : "원하는가격알림",
+                "url" : "/pub_test/web/mailing/mailPrice.html"
+            }, {
+                "category" : "mail",
+                "title" : "개인정보이용내역안내",
+                "url" : "/pub_test/web/mailing/mailPrivacy-20170720.html"
+            }, {
+                "category" : "mail",
+                "title" : "개인정보이용내역안내",
+                "url" : "/pub_test/web/mailing/mailPrivacy-20180730.html"
+            }, {
+                "category" : "mail",
+                "title" : "개인정보이용내역안내",
+                "url" : "/pub_test/web/mailing/mailPrivacy.html"
+            }, {
+                "category" : "mail",
+                "title" : "Q&A 답변 안내",
+                "url" : "/pub_test/web/mailing/mailQ&a.html"
+            }, {
+                "category" : "mail",
+                "title" : "최근본상품안내",
+                "url" : "/pub_test/web/mailing/mailRecent.html"
+            }, {
+                "category" : "mail",
+                "title" : "휴면계정전환안내",
+                "url" : "/pub_test/web/mailing/mailRest.html"
+            }, {
+                "category" : "mail",
+                "title" : "상품평등록안내",
+                "url" : "/pub_test/web/mailing/mailReview.html"
+            }, {
+                "category" : "mail",
+                "title" : "판매시작안내",
+                "url" : "/pub_test/web/mailing/mailSale.html"
+            }, {
+                "category" : "mail",
+                "title" : "렌탈신청접수안내 ",
+                "url" : "/pub_test/web/mailing/rentalApply.html"
+            }, {
+                "category" : "policy",
+                "title" : "에누리 법적고지",
+                "url" : "/pub_test/web/home/etc/disclaimer.html"
+            }, {
+                "category" : "policy",
+                "title" : "e머니 이용약관",
+                "url" : "/pub_test/web/home/etc/provision_emoney.html"
+            }, {
+                "category" : "policy",
+                "title" : "에누리 이용약관",
+                "url" : "/pub_test/web/home/etc/provision.html"
+            }, {
+                "category" : "policy",
+                "title" : "에누리 개인정보 처리방침",
+                "url" : "/pub_test/web/home/etc/secure.html"
+            }, {
+                "category" : "policy",
+                "title" : "에누리 청소년보호방침",
+                "url" : "/pub_test/web/home/etc/youthpolicy.html"
+            }, {
+                "category" : "noticeLayer",
+                "title" : "cpc광고 종료",
+                "url" : "/pub_test/web/notice/layer_cpcend.html"
+            }, {
+                "category" : "noticeLayer",
+                "title" : "새 우편번호 변경",
+                "url" : "/pub_test/web/notice/pop_zipcode_change.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "웹접근성",
+                "url" : "/pub_test/ui_guide/include/ui-accessibility.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "소개",
+                "url" : "/pub_test/ui_guide/include/ui-compatibility.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "점검항목",
+                "url" : "/pub_test/ui_guide/include/ui-guideChk.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "css 가이드",
+                "url" : "/pub_test/ui_guide/include/ui-guideCss.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "html 가이드",
+                "url" : "/pub_test/ui_guide/include/ui-guideHtml.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "이미지가이드",
+                "url" : "/pub_test/ui_guide/include/ui-guideImg.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "js가이드",
+                "url" : "/pub_test/ui_guide/include/ui-guideJS.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "소개 및 목적",
+                "url" : "/pub_test/ui_guide/include/ui-introduce.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "산출물url",
+                "url" : "/pub_test/ui_guide/include/ui-outputs.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "디렉토리 규칙",
+                "url" : "/pub_test/ui_guide/include/ui-structure.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "에누리ui가이드",
+                "url" : "/pub_test/ui_guide/include/ui-templete_jsh.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "ui 템플릿",
+                "url" : "/pub_test/ui_guide/include/ui-templete-social.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "ui 템플릿 모바일",
+                "url" : "/pub_test/ui_guide/include/ui-templete.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "웹표준",
+                "url" : "/pub_test/ui_guide/include/ui-webStandard.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "footer",
+                "url" : "/pub_test/ui_guide/snippet/footer.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "네비게이션",
+                "url" : "/pub_test/ui_guide/snippet/gnb.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "메뉴",
+                "url" : "/pub_test/ui_guide/snippet/menu.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "페이지",
+                "url" : "/pub_test/ui_guide/snippet/paging.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "푸터정보",
+                "url" : "/pub_test/ui_guide/snippet/social_footer.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "네비게이션",
+                "url" : "/pub_test/ui_guide/snippet/social_gnb.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "페이지",
+                "url" : "/pub_test/ui_guide/snippet/social_paging.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "에누리퍼블리싱url",
+                "url" : "/pub_test/index.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "lp",
+                "url" : "/pub_test/uxdesign/d190829/lp_renew.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "lp",
+                "url" : "/pub_test/uxdesign/d190829/lp_test_01.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "lp",
+                "url" : "/pub_test/uxdesign/d190829/lp_test_02.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "lp",
+                "url" : "/pub_test/uxdesign/d190829/lp_test_03.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "lp",
+                "url" : "/pub_test/uxdesign/d190829/lp_test_04.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "lp",
+                "url" : "/pub_test/uxdesign/d190829/lp_test_05.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "lp",
+                "url" : "/pub_test/uxdesign/d190829/lp_test_06.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "lp",
+                "url" : "/pub_test/uxdesign/d190829/lp_test.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "사랑가득해피데이",
+                "url" : "/pub_test/uxdesign/interaction/mobile.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "재직증면원",
+                "url" : "/pub_test/uxdesign/jca/certificate/certificate_01.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "경력증명원",
+                "url" : "/pub_test/uxdesign/jca/certificate/certificate_02.html"
+            }, {
+                "category" : "uiGuide",
+                "title" : "배너가이드",
+                "url" : "/pub_test/uxdesign/report/g1907/guide.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "레이어",
+                "url" : "/pub_test/web/enuripc/admin/layer.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "제휴정산",
+                "url" : "/pub_test/web/enuripc/admin/list_calc_report.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "매출리포트",
+                "url" : "/pub_test/web/enuripc/admin/list.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "견적관리자로그인",
+                "url" : "/pub_test/web/enuripc/admin/login.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "견적관리자",
+                "url" : "/pub_test/web/enuripc/admin/main.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "pc견적문의",
+                "url" : "/pub_test/web/enuripc/email/estimateask.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "견적문의 답변 완료",
+                "url" : "/pub_test/web/enuripc/email/estimatenswer.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "온라인 견적서",
+                "url" : "/pub_test/web/enuripc/email/online_buylist.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "주문완료",
+                "url" : "/pub_test/web/enuripc/email/orderdone.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "구매후기",
+                "url" : "/pub_test/web/enuripc/community_buyepi.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "구매후기 상세",
+                "url" : "/pub_test/web/enuripc/community_buyepiview.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "구매가이드",
+                "url" : "/pub_test/web/enuripc/community_buyguide.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "구매후기 작성",
+                "url" : "/pub_test/web/enuripc/community_epiwrite.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "pc관련 뉴스",
+                "url" : "/pub_test/web/enuripc/community_news.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "공지사항",
+                "url" : "/pub_test/web/enuripc/community_notice.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "공지사항",
+                "url" : "/pub_test/web/enuripc/community_noticeview.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "공지사항 등록",
+                "url" : "/pub_test/web/enuripc/community_noticewrite.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "게임용pc",
+                "url" : "/pub_test/web/enuripc/gamepc_lp_slide.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "게임용pc",
+                "url" : "/pub_test/web/enuripc/gamepc_lp.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "견적문의하기",
+                "url" : "/pub_test/web/enuripc/inquiry_ask.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "견적문의게시판",
+                "url" : "/pub_test/web/enuripc/inquiry_board.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "주문상세정보",
+                "url" : "/pub_test/web/enuripc/inquiry_delivery_print.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "주문/배송조회",
+                "url" : "/pub_test/web/enuripc/inquiry_delivery.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "견적문의하기",
+                "url" : "/pub_test/web/enuripc/inquiry_detail.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "견적문의게시판 견의문적내역",
+                "url" : "/pub_test/web/enuripc/inquiry_myviewlist.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "견적문의게시판 견적보관함",
+                "url" : "/pub_test/web/enuripc/inquiry_myviewtray.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "업체별 견적비교",
+                "url" : "/pub_test/web/enuripc/inquiry_view.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc",
+                "url" : "/pub_test/web/enuripc/layout.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc홈",
+                "url" : "/pub_test/web/enuripc/main.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 견적서",
+                "url" : "/pub_test/web/enuripc/online_buylist.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc lp",
+                "url" : "/pub_test/web/enuripc/online_lp_iframe.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc lp",
+                "url" : "/pub_test/web/enuripc/online_lp.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc vip",
+                "url" : "/pub_test/web/enuripc/online_vip.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 견적서",
+                "url" : "/pub_test/web/enuripc/onlineEstCapterList.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 주문완료",
+                "url" : "ub_test/web/enuripc/order_end.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 주문오류",
+                "url" : "/pub_test/web/enuripc/order_error.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 주문",
+                "url" : "/pub_test/web/enuripc/order.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 검색",
+                "url" : "/pub_test/web/enuripc/part_etc.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 업체",
+                "url" : "/pub_test/web/enuripc/pop_inquiry_buydetail.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 업체 문의",
+                "url" : "/pub_test/web/enuripc/pop_inquiry_buyepi.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 시스템점검",
+                "url" : "/pub_test/web/enuripc/popup_alarm.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 판매자정보",
+                "url" : "/pub_test/web/enuripc/popup_seller.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 상품검색오류",
+                "url" : "/pub_test/web/enuripc/product_error.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "에누리pc 기획전",
+                "url" : "/pub_test/web/enuripc/promotion.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "에누리pc 기획전2",
+                "url" : "/pub_test/web/enuripc/promotion2.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "에누리pc lp",
+                "url" : "/pub_test/web/enuripc/proshop_lp.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "에누리pc 홈",
+                "url" : "/pub_test/web/enuripc/proshop_main.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "에누리pc vip",
+                "url" : "/pub_test/web/enuripc/proshop_vip.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "cpu lp",
+                "url" : "/pub_test/web/enuripc/recommend_cpu_lp.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "추천lp",
+                "url" : "/pub_test/web/enuripc/recommend_lp.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "as 서비스",
+                "url" : "/pub_test/web/enuripc/service_as.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "조립pc 구매팁",
+                "url" : "/pub_test/web/enuripc/service_buytipguide.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "설치가이드",
+                "url" : "/pub_test/web/enuripc/service_setupguide_ver2.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "설치가이드",
+                "url" : "/pub_test/web/enuripc/service_setupguide.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "에누리pc 검색결과없음",
+                "url" : "/pub_test/web/enuripc/srp_nodata.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "에누리pc srp",
+                "url" : "/pub_test/web/enuripc/srp.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "에누리pc vip",
+                "url" : "/pub_test/web/enuripc/standard_vip.html"
+            }, {
+                "category" : "enuripc",
+                "title" : "pc견적 url",
+                "url" : "/pub_test/web/enuripc/url.html"
+            }, {
+                "category" : "mockup",
+                "title" : "lp 타입1",
+                "url" : "/pub_test/mockup/ad_mockup/w/lp_mockup_type1.html"
+            }, {
+                "category" : "mockup",
+                "title" : "lp 타입2",
+                "url" : "/pub_test/mockup/ad_mockup/w/lp_mockup_type2.html"
+            }, {
+                "category" : "mockup",
+                "title" : "카테고리1",
+                "url" : "/pub_test/mockup/finder/smart/sm_finder1.html"
+            }, {
+                "category" : "mockup",
+                "title" : "카테고리2",
+                "url" : "/pub_test/mockup/finder/smart/sm_finder2.html"
+            }, {
+                "category" : "mockup",
+                "title" : "카테고리3",
+                "url" : "/pub_test/mockup/finder/smart/sm_finder3.html"
+            }, {
+                "category" : "mockup",
+                "title" : "카테고리4",
+                "url" : "/pub_test/mockup/finder/smart/sm_finder4.html"
+            }, {
+                "category" : "mockup",
+                "title" : "lp파인더",
+                "url" : "/pub_test/mockup/finder/lp_finder_v2.html"
+            }, {
+                "category" : "mockup",
+                "title" : "lp",
+                "url" : "/pub_test/mockup/finder/lp_test.html"
+            }, {
+                "category" : "mockup",
+                "title" : "표준 상품 데이터 MCSS 조회",
+                "url" : "/pub_test/mockup/mcsslowprice/index.html"
+            }, {
+                "category" : "mockup",
+                "title" : "카테고리별분석",
+                "url" : "/pub_test/mockup/mcsstransition/index.html"
+            }, {
+                "category" : "mockup",
+                "title" : "카테고리별분석(부트스트랩)",
+                "url" : "/pub_test/mockup/mcsstransition/index(bootstrap).html"
+            }, {
+                "category" : "mockup",
+                "title" : "무신사리스트",
+                "url" : "/pub_test/mockup/musinsaview/index_210325.html"
+            }, {
+                "category" : "mockup",
+                "title" : "무신사리스트",
+                "url" : "/pub_test/mockup/musinsaview/index_210331.html"
+            }, {
+                "category" : "mockup",
+                "title" : "mp 전성분관리",
+                "url" : "/pub_test/mockup/newmp/all_ingredient_admin.html"
+            }, {
+                "category" : "mockup",
+                "title" : "mp 속성관리",
+                "url" : "/pub_test/mockup/newmp/attr_admin.html"
+            }, {
+                "category" : "mockup",
+                "title" : "mp 그룹조건관리",
+                "url" : "/pub_test/mockup/newmp/group_condition_admin.html"
+            }, {
+                "category" : "mockup",
+                "title" : "mp",
+                "url" : "/pub_test/mockup/newmp/index_srch.html"
+            }, {
+                "category" : "mockup",
+                "title" : "mp",
+                "url" : "/pub_test/mockup/newmp/index.html"
+            }, {
+                "category" : "mockup",
+                "title" : "대량정제 mp",
+                "url" : "/pub_test/mockup/newmp/list.html"
+            }, {
+                "category" : "mockup",
+                "title" : "제조사/브랜드",
+                "url" : "/pub_test/mockup/newmp/popup_brand.html"
+            }, {
+                "category" : "mockup",
+                "title" : "카테고리정보",
+                "url" : "/pub_test/mockup/newmp/popup_cateinfo.html"
+            }, {
+                "category" : "mockup",
+                "title" : "대량정제 mp",
+                "url" : "/pub_test/mockup/newmp/popup_origin.html"
+            }, {
+                "category" : "mockup",
+                "title" : "admin",
+                "url" : "/pub_test/mockup/newmp/popup_productAttrAdmin.html"
+            }, {
+                "category" : "mockup",
+                "title" : "연관상품관리",
+                "url" : "/pub_test/mockup/newmp/related_products.html"
+            }, {
+                "category" : "mockup",
+                "title" : "mp 속성관리",
+                "url" : "/pub_test/mockup/newmp/spec_admin.html"
+            }, {
+                "category" : "ems",
+                "title" : "ems tower",
+                "url" : "/pub_test/ems/index.html"
+            }, {
+                "category" : "ems",
+                "title" : "ngit 응용프로듀서",
+                "url" : "/pub_test/ems/ngit_moniter_apps.html"
+            }, {
+                "category" : "ems",
+                "title" : "ngit eslp",
+                "url" : "/pub_test/ems/ngit_moniter_eslp.html"
+            }, {
+                "category" : "ems",
+                "title" : "ngit collection",
+                "url" : "/pub_test/ems/ngit_moniter_mall.html"
+            }, {
+                "category" : "ems",
+                "title" : "ngit 모니터링 수집",
+                "url" : "/pub_test/ems/ngit_moniter_platform.html"
+            }, {
+                "category" : "summerceIntro",
+                "title" : "써머스플랫폼",
+                "url" : "/pub_test/web/summerce/index.html"
+            }, {
+                "category" : "summerceIntro",
+                "title" : "써머스플랫폼 뉴스",
+                "url" : "/pub_test/web/summerce/news_view.html"
+            }, {
+                "category" : "summerceIntro",
+                "title" : "써머스플랫폼 뉴스 리스트",
+                "url" : "/pub_test/web/summerce/news.html"
+            }, {
+                "category" : "summerceIntro",
+                "title" : "써머스플랫폼 뉴스 공지",
+                "url" : "/pub_test/web/summerce/notice_view.html"
+            }, {
+                "category" : "summerceIntro",
+                "title" : "써머스플랫폼 뉴스 공지 리스트",
+                "url" : "/pub_test/web/summerce/notice.html"
+            }, {
+                "category" : "summerceIntro",
+                "title" : "써머스플랫폼 url",
+                "url" : "/pub_test/web/summerce/url.html"
+            }, {
+                "category" : "travel",
+                "title" : "에누리여행",
+                "url" : "/pub_test/web/tour/tour_index.html"
+            }, {
+                "category" : "jca",
+                "title" : "트렌드픽업",
+                "url" : "/pub_test/jca/jca_preview_trendpickup_w.html"
+            }, {
+                "category" : "jca",
+                "title" : "홈",
+                "url" : "/pub_test/web/jca/index.html"
+            }, {
+                "category" : "jca",
+                "title" : "업무리스트",
+                "url" : "/pub_test/web/jca/list_guide.html"
+            }, {
+                "category" : "jca",
+                "title" : "메뉴관리",
+                "url" : "/pub_test/web/jca/menu_setup.html"
+            }, {
+                "category" : "jca",
+                "title" : "스타일가이드",
+                "url" : "/pub_test/web/jca/style_guide.html"
+            }, {
+                "category" : "jca",
+                "title" : "게시물가이드",
+                "url" : "/pub_test/web/jca/view_guide.html"
+            }, {
+                "category" : "jca",
+                "title" : "글쓰가가이드",
+                "url" : "/pub_test/web/jca/write_guide.html"
+            }, {
+                "category" : "enuriAd", 
+                "title" : "에누리광고",
+                "url" : "/pub_test/web/adCenter/index.html"
+            }, {
+                "category" : "enuriAd", 
+                "title" : "에누리광고",
+                "url" : "/pub_test/web/adCenter/index_renewal.html"
+            }, {
+                "category" : "enuriAd", 
+                "title" : "에누리광고",
+                "url" : "/pub_test/web/adCenter/index.html"
+            }, {
+                "category" : "enuriAd", 
+                "title" : "에누리광고",
+                "url" : "/pub_test/web/adCenter/index.html"
+            }, {
+                "category" : "enuriAd", 
+                "title" : "에누리광고",
+                "url" : "/pub_test/web/adCenter/index.html"
+            }, {
+                "category" : "enuriAd",
+                "title" : "광고레이어",
+                "url" : "/pub_test/web/infoAD/layer.html"
+            }, {
+                "category" : "enuriAd", 
+                "title" : "광고팝업",
+                "url" : "/pub_test/web/infoAD/laypop_register.html"
+            }, {
+                "category" : "enuriAd", 
+                "title" : "광고관리자페이지 로그인",
+                "url" : "/pub_test/web/infoAD/login.html"
+            }, {
+                "category" : "enuriAd", 
+                "title" : "광고관리",
+                "url" : "/pub_test/web/infoAD/main.html"
+            }, {
+                "category" : "enuriAd", 
+                "title" : "광고관리",
+                "url" : "/pub_test/web/infoAD/tablelist.html"
+            }, {
+                "category" : "enuriAd", 
+                "title" : "에누리광고 배너가이드",
+                "url" : "/pub_test/web/adCenter/banner_guide.html"
+            }
+        ]
+    },
+    {
+        "device" : "mobile",
+        "childcategory" : ["promotion", "globalshopping", "eclub", "car", "emoney", "member", "knowcom", "core", "mockup", "jca", "noticeLayer"],
+        "listbycategory" : [
+            {
+                "category" : "promotion",
+                "url" : "/pub_test/event/y2022/vip/web/index_feb.html"
+            }, {
+                "category" : "promotion",
+                "title": "push 알림 혜택",
+                "url": "/pub_test/event/y2021_rev/appush/mobile/index_may.html"
+            }, {
+                "category" : "promotion",
+                "title": "출석 & 룰렛 혜택 프로모션",
+                "url": "/pub_test/event/y2021_rev/attendance/mobile/index_dec.html"
+            }, {
+                "category" : "promotion",
+                "title": "생일 & 컴백 혜택 프로모션",
+                "url": "/pub_test/event/y2021_rev/buy_birth/mobile/index_dec.html"
+            }, {
+                "category" : "promotion",
+                "title": "웰컴 혜택 (신규회원 혜택) 프로모션",
+                "url": "/pub_test/event/y2021_rev/buy_first/mobile/dec/newmember.html"
+            }, {
+                "category" : "promotion",
+                "title": "웰컴 혜택 (웰컴 혜택) 프로모션",
+                "url": "/pub_test/event/y2021_rev/buy_first/mobile/dec/welcome.html"
+            }, {
+                "category" : "promotion",
+                "title": "웰컴 혜택 (초대 혜택) 프로모션",
+                "url": "/pub_test/event/y2021_rev/buy_first/mobile/dec/invite.html"
+            }, {
+                "category" : "promotion",
+                "title": "브랜드왕",
+                "url": "/pub_test/event/y2021_rev/buy_king/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "구매 프로모션",
+                "url": "/pub_test/event/y2021_rev/buy_stamp/mobile/index_dec.html"
+            }, {
+                "category" : "promotion",
+                "title": "추석 혜택 tab1",
+                "url": "/pub_test/event/y2021_rev/chuseok_pro/mobile/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title": "추석 혜택 tab2",
+                "url": "/pub_test/event/y2021_rev/chuseok_pro/mobile/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title": "추석 혜택 tab3",
+                "url": "/pub_test/event/y2021_rev/chuseok_pro/mobile/tab3.html"
+            }, {
+                "category" : "promotion",
+                "title": "쇼핑몰 연결 혜택",
+                "url": "/pub_test/event/y2021_rev/connect_shop/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "쿠팡 신규회원 적립",
+                "url": "/pub_test/event/y2021_rev/coupang_new/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "휴면고객 로그인 혜택",
+                "url": "/pub_test/event/y2021_rev/dormancy/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "직장인공감",
+                "url": "/pub_test/event/y2021_rev/empathywork/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "직장인공(테스트)",
+                "url": "/pub_test/event/y2021_rev/empathywork/mobile/quiz.html"
+            }, {
+                "category" : "promotion",
+                "title": "최저가 찾기",
+                "url": "/pub_test/event/y2021_rev/enuri_via/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "가정의달 tab1",
+                "url": "/pub_test/event/y2021_rev/familymonth/mobile/tab01.html"
+            }, {
+                "category" : "promotion",
+                "title": "가정의달 tab2",
+                "url": "/pub_test/event/y2021_rev/familymonth/mobile/tab02.html"
+            }, {
+                "category" : "promotion",
+                "title": "가정의달 tab3",
+                "url": "/pub_test/event/y2021_rev/familymonth/mobile/tab03.html"
+            }, {
+                "category" : "promotion",
+                "title": "히트브랜드 상반기",
+                "url": "/pub_test/event/y2021_rev/hitbrand/jun/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "히트브랜드 하반기",
+                "url": "/pub_test/event/y2021_rev/hitbrand/dec/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "씨알텍 스마트스토어",
+                "url": "/pub_test/event/y2021_rev/smartstore_crtek/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "무더위 프로모션",
+                "url": "/pub_test/event/y2021_rev/summer_pro/mobile/index_lottery.html"
+            }, {
+                "category" : "promotion",
+                "title": "무더위 프로모션",
+                "url": "/pub_test/event/y2021_rev/summer_pro/mobile/index_timesale.html"
+            }, {
+                "category" : "promotion",
+                "title": "무더위 프로모션",
+                "url": "/pub_test/event/y2021_rev/summer_pro/mobile/index_plan.html"
+            }, {
+                "category" : "promotion",
+                "title": "쓰리고pc",
+                "url": "/pub_test/event/y2021_rev/threegopc/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "VIP 혜택",
+                "url": "/pub_test/event/y2021_rev/vip/mobile/index_dec.html"
+            }, {
+                "category" : "promotion",
+                "title": "겨울 프로모션 tab1",
+                "url": "/pub_test/event/y2021_rev/winter_pro/mobile/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title": "겨울 프로모션 tab2",
+                "url": "/pub_test/event/y2021_rev/winter_pro/mobile/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title": "겨울 프로모션 tab3",
+                "url": "/pub_test/event/y2021_rev/winter_pro/mobile/tab3.html"
+            }, {
+                "category" : "promotion",
+                "title": "성탄절 프로모션 tab1",
+                "url": "/pub_test/event/y2021_rev/xmas_pro/mobile/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title": "성탄절 프로모션 tab2",
+                "url": "/pub_test/event/y2021_rev/xmas_pro/mobile/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title": "성탄절 프로모션 tab3",
+                "url": "/pub_test/event/y2021_rev/xmas_pro/mobile/tab3.html"
+            }, {
+                "category" : "promotion",
+                "title": "출석 & 룰렛 혜택 프로모션",
+                "url": "/pub_test/event/y2022/attendance/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "브랜드스토어 이벤트",
+                "url": "/pub_test/event/y2022/brandstore_pro/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "생일 & 컴백 혜택 프로모션",
+                "url": "/pub_test/event/y2022/buy_birth/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "웰컴 혜택 (신규회원 혜택) 프로모션",
+                "url": "/pub_test/event/y2022/buy_first/mobile/july/newmember.html"
+            }, {
+                "category" : "promotion",
+                "title": "웰컴 혜택 (웰컴 혜택) 프로모션",
+                "url": "/pub_test/event/y2022/buy_first/mobile/july/welcome.html"
+            }, {
+                "category" : "promotion",
+                "title": "웰컴 혜택 (초대 혜택) 프로모션",
+                "url": "/pub_test/event/y2022/buy_first/mobile/july/invite.html"
+            }, {
+                "category" : "promotion",
+                "title": "구매 혜택",
+                "url": "/pub_test/event/y2022/buy_stamp/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "혜택배너",
+                "url": "/pub_test/event/y2022/common/benefit_m.html"
+            }, {
+                "category" : "promotion",
+                "title": "유의사항(공통)",
+                "url": "/pub_test/event/y2022/common/notice_m.html"
+            }, {
+                "category" : "promotion",
+                "title": "e클럽 오픈",
+                "url": "/pub_test/event/y2022/eclub_launch/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "가정의달 tab1",
+                "url": "/pub_test/event/y2022/familymonth/mobile/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title": "가정의달 tab2",
+                "url": "/pub_test/event/y2022/familymonth/mobile/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title": "히트브랜드 상반기",
+                "url": "/pub_test/event/y2022/hitbrand/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "새학기 tab1",
+                "url": "/pub_test/event/y2022/newsemester_pro/mobile/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title": "새학기 tab2",
+                "url": "/pub_test/event/y2022/newsemester_pro/mobile/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title": "새해 tab1",
+                "url": "/pub_test/event/y2022/newyear_pro/mobile/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title": "새해 tab2",
+                "url": "/pub_test/event/y2022/newyear_pro/mobile/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title": "새해 tab3",
+                "url": "/pub_test/event/y2022/newyear_pro/mobile/tab3.html"
+            }, {
+                "category" : "promotion",
+                "title": "모바일 유의사항",
+                "url": "/pub_test/event/y2022/notice_comm/m_notice.html"
+            }, {
+                "category" : "promotion",
+                "title": "쇼핑매니저 tab1",
+                "url": "/pub_test/event/y2022/shopmanager_pro/july/mobile/tab1.html"
+            }, {
+                "category" : "promotion",
+                "title": "쇼핑매니저 tab2",
+                "url": "/pub_test/event/y2022/shopmanager_pro/july/mobile/tab2.html"
+            }, {
+                "category" : "promotion",
+                "title": "무더위 프로모션",
+                "url": "/pub_test/event/y2022/summer/mobile/index.html"
+            }, {
+                "category" : "promotion",
+                "title": "VIP 혜택",
+                "url": "/pub_test/event/y2022/vip/mobile/index_feb.html"
+            }, {
+                "category" : "globalshopping",
+                "title": "해외쇼핑 가이드",
+                "url": "/pub_test/global/m/guide.html"
+            }, {
+                "category" : "globalshopping",
+                "title": "해외직구",
+                "url": "/pub_test/global/m/index.html"
+            }, {
+                "category" : "globalshopping",
+                "title": "해외직구 리스트 카테고리 lp",
+                "url": "/pub_test/global/m/lp_cate.html"
+            }, {
+                "category" : "globalshopping",
+                "title": "해외직구 리스트 이벤트샵 lp",
+                "url": "/pub_test/global/m/lp_event.html"
+            }, {
+                "category" : "globalshopping",
+                "title": "해외직구 리스트 미국샵 lp",
+                "url": "/pub_test/global/m/lp.html"
+            }, {
+                "category" : "globalshopping",
+                "title": "해외직구 검색 srp",
+                "url": "/pub_test/global/m/srp.html"
+            }, {
+                "category" : "globalshopping",
+                "title": "해외직구 상세페이지 vip",
+                "url": "/pub_test/global/m/vip.html"
+            }, {
+                "category": "eclub",
+                "title": "e클럽 무료가입",
+                "url": "/pub_test/mobile/home_v2/eclub/before_login.html"
+            }, {
+                "category": "eclub",
+                "title": "e클럽",
+                "url": "/pub_test/mobile/home_v2/eclub/index.html"
+            }, {
+                "category": "eclub",
+                "title": "e클럽 가입혜택",
+                "url": "/pub_test/mobile/home_v2/eclub/newmember.html"
+            }, {
+                "category": "eclub",
+                "title": "마이 e클럽",
+                "url": "/pub_test/mobile/home_v2/myeclub/index.html"
+            }, {
+                "category": "eclub",
+                "title": "마이알림",
+                "url": "/pub_test/mobile/home_v2/myeclub/my_alarm.html"
+            }, {
+                "category": "eclub",
+                "title": "찜한 브랜드스토어",
+                "url": "/pub_test/mobile/home_v2/myeclub/my_brandstore.html"
+            }, {
+                "category": "eclub",
+                "title": "배송조회",
+                "url": "/pub_test/mobile/home_v2/myeclub/my_delivery.html"
+            }, {
+                "category": "eclub",
+                "title": "나의 관심 상품",
+                "url": "/pub_test/mobile/home_v2/myeclub/my_favorite.html"
+            }, {
+                "category": "eclub",
+                "title": "최근 본 카테고리",
+                "url": "/pub_test/mobile/home_v2/myeclub/my_recent_category.html"
+            }, {
+                "category": "eclub",
+                "title": "최근 본 상품",
+                "url": "/pub_test/mobile/home_v2/myeclub/my_recent_goods.html"
+            }, {
+                "category": "eclub",
+                "title": "최근 검색어",
+                "url": "/pub_test/mobile/home_v2/myeclub/my_recent_keyword.html"
+            }, {
+                "category": "eclub",
+                "title": "찜상품",
+                "url": "/pub_test/mobile/home_v2/myeclub/my_recent_nodata.html"
+            }, {
+                "category": "eclub",
+                "title": "쇼핑매니저",
+                "url": "/pub_test/mobile/home_v2/myeclub/shop_benefits.html"
+            }, {
+                "category": "eclub",
+                "title": "쇼핑 리포트",
+                "url": "/pub_test/mobile/home_v2/myeclub/shop_report.html"
+            }, {
+                "category" : "car",
+                "title": "상담신청접수",
+                "url": "/pub_test/newcar/m/comp_finance_write.html"
+            }, {
+                "category" : "car",
+                "title": "금융비교",
+                "url": "/pub_test/newcar/m/comp_finance.html"
+            }, {
+                "category" : "car",
+                "title": "견적내기-세부모델",
+                "url": "/pub_test/newcar/m/estimate01.html"
+            }, {
+                "category" : "car",
+                "title": "견적내기-옵션선택",
+                "url": "/pub_test/newcar/m/estimate02.html"
+            }, {
+                "category" : "car",
+                "title": "견적내기-기타비용",
+                "url": "/pub_test/newcar/m/estimate03.html"
+            }, {
+                "category" : "car",
+                "title": "견적내기-할인선택",
+                "url": "/pub_test/newcar/m/estimate04.html"
+            }, {
+                "category" : "car",
+                "title": "견적내기-금융계획",
+                "url": "/pub_test/newcar/m/estimate05.html"
+            }, {
+                "category" : "car",
+                "title": "자동차 홈",
+                "url": "/pub_test/newcar/m/index.html"
+            }, {
+                "category" : "car",
+                "title": "자동차 시세",
+                "url": "/pub_test/newcar/m/intro_score.html"
+            }, {
+                "category" : "car",
+                "title": "내차팔기",
+                "url": "/pub_test/newcar/m/intro_sellmycar.html"
+            }, {
+                "category" : "car",
+                "title": "자동차레이어",
+                "url": "/pub_test/newcar/m/layer.html"
+            }, {
+                "category" : "car",
+                "title": "즉시출고",
+                "url": "/pub_test/newcar/m/list_immediate.html"
+            }, {
+                "category" : "car",
+                "title": "중고차",
+                "url": "/pub_test/newcar/m/list_model_used.html"
+            }, {
+                "category" : "car",
+                "title": "신차견적",
+                "url": "/pub_test/newcar/m/list_model.html"
+            }, {
+                "category" : "car",
+                "title": "내차 시세 결과",
+                "url": "/pub_test/newcar/m/mycar_quote_result.html"
+            }, {
+                "category" : "car",
+                "title": "시세확인",
+                "url": "/pub_test/newcar/m/mycar_quote.html"
+            }, {
+                "category" : "car",
+                "title": "견적신청접수",
+                "url": "/pub_test/newcar/m/receipt_model.html"
+            }, {
+                "category" : "car",
+                "title": "비교함",
+                "url": "/pub_test/newcar/m/usedcar_compare_list.html"
+            }, {
+                "category" : "car",
+                "title": "비교하기",
+                "url": "/pub_test/newcar/m/usedcar_compare_view.html"
+            }, {
+                "category" : "car",
+                "title": "차량검색",
+                "url": "/pub_test/newcar/m/usedcar_search.html"
+            }, {
+                "category" : "car",
+                "title": "즉시출고목록",
+                "url": "/pub_test/newcar/m/view_immediate.html"
+            }, {
+                "category" : "car",
+                "title": "모델정보",
+                "url": "/pub_test/newcar/m/view_model.html"
+            }, {
+                "category" : "car",
+                "title": "프리미엄 중고차",
+                "url": "/pub_test/mobile/home_v2/reborncar/index.html"
+            }, {
+                "category" : "emoney",
+                "title": "쿠폰함",
+                "url": "/pub_test/mobile/newmain/emoney/mybag/coupon.html"
+            }, {
+                "category" : "emoney",
+                "title": "교환권",
+                "url": "/pub_test/mobile/newmain/emoney/mybag/detail.html"
+            }, {
+                "category" : "emoney",
+                "title": "문의하기",
+                "url": "/pub_test/mobile/newmain/emoney/mybag/faq.html"
+            }, {
+                "category" : "emoney",
+                "title": "홈",
+                "url": "/pub_test/mobile/newmain/emoney/mybag/index.html"
+            }, {
+                "category" : "emoney",
+                "title": "라면교환소",
+                "url": "/pub_test/mobile/newmain/emoney/mybag/store.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑몰 간편로그인 이용약관",
+                "url": "/pub_test/mobile/newmain/emoney/agreement_type02.html"
+            }, {
+                "category" : "emoney",
+                "title": "에누리 브라우저",
+                "url": "/pub_test/mobile/newmain/emoney/agreement.html"
+            }, {
+                "category" : "emoney",
+                "title": "에누리 e머니 이용약관",
+                "url": "/pub_test/mobile/newmain/emoney/app_popup.html"
+            }, {
+                "category" : "emoney",
+                "title": "사용가능 e머니",
+                "url": "/pub_test/mobile/newmain/emoney/benefit.html"
+            }, {
+                "category" : "emoney",
+                "title": "쿠폰 자세히보기",
+                "url": "/pub_test/mobile/newmain/emoney/coupon_detail.html"
+            }, {
+                "category" : "emoney",
+                "title": "보유 e쿠폰",
+                "url": "/pub_test/mobile/newmain/emoney/coupon.html"
+            }, {
+                "category" : "emoney",
+                "title": "e머니 적립내역",
+                "url": "/pub_test/mobile/newmain/emoney/emoney_evt.html"
+            }, {
+                "category" : "emoney",
+                "title": "e머니 혜택",
+                "url": "/pub_test/mobile/newmain/emoney/emoney_popup.html"
+            }, {
+                "category" : "emoney",
+                "title": "e머니 환불",
+                "url": "/pub_test/mobile/newmain/emoney/emoney_refund.html"
+            }, {
+                "category" : "emoney",
+                "title": "e머니 적립받기",
+                "url": "/pub_test/mobile/newmain/emoney/emoney_save.html"
+            }, {
+                "category" : "emoney",
+                "title": "e머니 사용",
+                "url": "/pub_test/mobile/newmain/emoney/emoney_state.html"
+            }, {
+                "category" : "emoney",
+                "title": "에누리 적립금 문의",
+                "url": "/pub_test/mobile/newmain/emoney/faq_view.html"
+            }, {
+                "category" : "emoney",
+                "title": "문의하기",
+                "url": "/pub_test/mobile/newmain/emoney/faq.html"
+            }, {
+                "category" : "emoney",
+                "title": "라면쿠폰",
+                "url": "/pub_test/mobile/newmain/emoney/info.html"
+            }, {
+                "category" : "emoney",
+                "title": "e머니 적립문의",
+                "url": "/pub_test/mobile/newmain/emoney/my_faq_view.html"
+            }, {
+                "category" : "emoney",
+                "title": "환불 e머니",
+                "url": "/pub_test/mobile/newmain/emoney/refund.html"
+            }, {
+                "category" : "emoney",
+                "title": "e머니 적립",
+                "url": "/pub_test/mobile/newmain/emoney/saving.html"
+            }, {
+                "category" : "emoney",
+                "title": "상품 상세정보",
+                "url": "/pub_test/mobile/newmain/emoney/shop_detail.html"
+            }, {
+                "category" : "emoney",
+                "title": "e머니 사용하기",
+                "url": "/pub_test/mobile/newmain/emoney/shop.html"
+            }, {
+                "category" : "emoney",
+                "title": "e머니 사용하기",
+                "url": "/pub_test/mobile/newmain/emoney/store.html"
+            }, {
+                "category" : "emoney",
+                "title": "적립금 현금인출 신청",
+                "url": "/pub_test/mobile/newmain/reward/cashout_apply.html"
+            }, {
+                "category" : "emoney",
+                "title": "적립금 현금인출",
+                "url": "/pub_test/mobile/newmain/reward/cashout.html"
+            }, {
+                "category" : "emoney",
+                "title": "문의하기",
+                "url": "/pub_test/mobile/newmain/reward/faq.html"
+            }, {
+                "category" : "emoney",
+                "title": "적립금 현황",
+                "url": "/pub_test/mobile/newmain/reward/index.html"
+            }, {
+                "category" : "emoney",
+                "title": "문의하기",
+                "url": "/pub_test/mobile/newmain/reward/request.html"
+            }, {
+                "category" : "emoney",
+                "title": "적립금",
+                "url": "/pub_test/mobile/newmain/reward/saving.html"
+            }, {
+                "category" : "emoney",
+                "title": "에누리 가이드",
+                "url": "/pub_test/mobile/newmain/ad_guide.html"
+            }, {
+                "category" : "emoney",
+                "title": "개인정보 취급방침",
+                "url": "/pub_test/mobile/newmain/agree.html"
+            }, {
+                "category" : "emoney",
+                "title": "카테고리",
+                "url": "/pub_test/mobile/newmain/all_category.html"
+            }, {
+                "category" : "emoney",
+                "title": "카테고리 홈",
+                "url": "/pub_test/mobile/newmain/best.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑몰 이동(현대몰)",
+                "url": "/pub_test/mobile/newmain/bridge_compare_m.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑몰 이동(ebay)",
+                "url": "/pub_test/mobile/newmain/bridge_global_m.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑몰 이동(kb 차차차)",
+                "url": "/pub_test/mobile/newmain/bridge_kbcha.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑몰 이동",
+                "url": "/pub_test/mobile/newmain/bridge_m.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑몰 이동(이마트)",
+                "url": "/pub_test/mobile/newmain/bridge_mart_m.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑몰 이동(G9)",
+                "url": "/pub_test/mobile/newmain/bridge_price_m.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑몰 이동(중고차)",
+                "url": "/pub_test/mobile/newmain/bridge_reborn_m.html"
+            }, {
+                "category" : "emoney",
+                "title": "첫 구매 혜택신청 레이어",
+                "url": "/pub_test/mobile/newmain/bridge.html"
+            }, {
+                "category" : "emoney",
+                "title": "헤더",
+                "url": "/pub_test/mobile/newmain/flower_header.html"
+            }, {
+                "category" : "emoney",
+                "title": "상단검색",
+                "url": "/pub_test/mobile/newmain/gnb.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑가이드",
+                "url": "/pub_test/mobile/newmain/guide.html"
+            }, {
+                "category" : "emoney",
+                "title": "ID/비밀번호찾기",
+                "url": "/pub_test/mobile/newmain/idpw.html"
+            }, {
+                "category" : "emoney",
+                "title": "인덱스 홈",
+                "url": "/pub_test/mobile/newmain/index_back.html"
+            }, {
+                "category" : "emoney",
+                "title": "인덱스 홈",
+                "url": "/pub_test/mobile/newmain/index_chuseok.html"
+            }, {
+                "category" : "emoney",
+                "title": "인덱스 홈",
+                "url": "/pub_test/mobile/newmain/index_wallpaper.html"
+            }, {
+                "category" : "emoney",
+                "title": "인덱스 홈",
+                "url": "/pub_test/mobile/newmain/index.html"
+            }, {
+                "category" : "emoney",
+                "title": "회원가입",
+                "url": "/pub_test/mobile/newmain/join.html"
+            }, {
+                "category" : "emoney",
+                "title": "레이어배경",
+                "url": "/pub_test/mobile/newmain/layer_nuddle.html"
+            }, {
+                "category" : "emoney",
+                "title": "이벤트레이어",
+                "url": "/pub_test/mobile/newmain/layer.html"
+            }, {
+                "category" : "emoney",
+                "title": "카테고리 리스트",
+                "url": "/pub_test/mobile/newmain/list_category.html"
+            }, {
+                "category" : "emoney",
+                "title": "로그인",
+                "url": "/pub_test/mobile/newmain/login.html"
+            }, {
+                "category" : "emoney",
+                "title": "lp",
+                "url": "/pub_test/mobile/newmain/lp_gridview.html"
+            }, {
+                "category" : "emoney",
+                "title": "lp",
+                "url": "/pub_test/mobile/newmain/lp_listview.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑몰이동",
+                "url": "/pub_test/mobile/newmain/move.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑몰이동2",
+                "url": "/pub_test/mobile/newmain/move2.html"
+            }, {
+                "category" : "emoney",
+                "title": "마이메뉴",
+                "url": "/pub_test/mobile/newmain/mymenu.html"
+            }, {
+                "category" : "emoney",
+                "title": "구매가이드",
+                "url": "/pub_test/mobile/newmain/news_detail.html"
+            }, {
+                "category" : "emoney",
+                "title": "홈",
+                "url": "/pub_test/mobile/newmain/plan.html"
+            }, {
+                "category" : "emoney",
+                "title": "쇼핑몰 간편로그인 이용약관",
+                "url": "/pub_test/mobile/newmain/policy.html"
+            }, {
+                "category" : "emoney",
+                "title": "팝업",
+                "url": "/pub_test/mobile/newmain/pop_preview.html"
+            }, {
+                "category" : "emoney",
+                "title": "팝업2",
+                "url": "/pub_test/mobile/newmain/pop_preview2.html"
+            }, {
+                "category" : "emoney",
+                "title": "개인정보처리방침",
+                "url": "/pub_test/mobile/newmain/privacy.html"
+            }, {
+                "category" : "emoney",
+                "title": "최근 본 상품",
+                "url": "/pub_test/mobile/newmain/recent.html"
+            }, {
+                "category" : "emoney",
+                "title": "렌탈 신청",
+                "url": "/pub_test/mobile/newmain/rental.html"
+            }, {
+                "category" : "emoney",
+                "title": "휴면 해제 신청",
+                "url": "/pub_test/mobile/newmain/rest_cancel.html"
+            }, {
+                "category" : "emoney",
+                "title": "srp",
+                "url": "/pub_test/mobile/newmain/srp_brand.html"
+            }, {
+                "category" : "emoney",
+                "title": "브랜드관",
+                "url": "/pub_test/mobile/newmain/srp_brandShop1.html"
+            }, {
+                "category" : "emoney",
+                "title": "브랜드관2",
+                "url": "/pub_test/mobile/newmain/srp_brandShop2.html"
+            }, {
+                "category" : "emoney",
+                "title": "srp",
+                "url": "/pub_test/mobile/newmain/srp.html"
+            }, {
+                "category" : "emoney",
+                "title": "오늘의 뉴스",
+                "url": "/pub_test/mobile/newmain/today_news.html"
+            }, {
+                "category" : "emoney",
+                "title": "오늘의 뉴스",
+                "url": "/pub_test/mobile/newmain/trend_news.html"
+            }, {
+                "category" : "emoney",
+                "title": "트랜드 홈",
+                "url": "/pub_test/mobile/newmain/trend_pickup.html"
+            }, {
+                "category" : "emoney",
+                "title": "에누리url",
+                "url": "/pub_test/mobile/newmain/url.html"
+            }, {
+                "category" : "emoney",
+                "title": "vip 상세설명",
+                "url": "/pub_test/mobile/newmain/vip_detail.html"
+            }, {
+                "category" : "emoney",
+                "title": "상세설명",
+                "url": "/pub_test/mobile/newmain/vip.html"
+            }, {
+                "category" : "emoney",
+                "title": "당첨자발표",
+                "url": "/pub_test/mobile/newmain/winner_view.html"
+            }, {
+                "category" : "emoney",
+                "title": "당첨자발표",
+                "url": "/pub_test/mobile/newmain/winner.html"
+            }, {
+                "category" : "emoney",
+                "title": "찜폴더",
+                "url": "/pub_test/mobile/newmain/zzim_folder.html"
+            }, {
+                "category" : "emoney",
+                "title": "찜",
+                "url": "/pub_test/mobile/newmain/zzim.html"
+            }, {
+                "category" : "member",
+                "title": "회원가입 동의1",
+                "url": "/pub_test/mobile/home_v2/member/connect_01.html"
+            }, {
+                "category" : "member",
+                "title": "회원가입 동의2",
+                "url": "/pub_test/mobile/home_v2/member/connect_02.html"
+            }, {
+                "category" : "member",
+                "title": "회원가입 동의3",
+                "url": "/pub_test/mobile/home_v2/member/connect_03.html"
+            }, {
+                "category" : "member",
+                "title": "회원가입 동의4",
+                "url": "/pub_test/mobile/home_v2/member/connect_04.html"
+            }, {
+                "category" : "member",
+                "title": "회원가입 동의5",
+                "url": "/pub_test/mobile/home_v2/member/connect_05.html"
+            }, {
+                "category" : "member",
+                "title": "회원가입 동의6",
+                "url": "/pub_test/mobile/home_v2/member/connect_06.html"
+            }, {
+                "category" : "member",
+                "title": "회원가입 동의7",
+                "url": "/pub_test/mobile/home_v2/member/connect_07.html"
+            }, {
+                "category" : "member",
+                "title": "sns 회원가입",
+                "url": "/pub_test/mobile/home_v2/member/enuri_join_sns.html"
+            }, {
+                "category" : "member",
+                "title": "회원가입",
+                "url": "/pub_test/mobile/home_v2/member/enuri_join.html"
+            }, {
+                "category" : "member",
+                "title": "로그인",
+                "url": "/pub_test/mobile/home_v2/member/login.html"
+            }, {
+                "category" : "member",
+                "title": "다중아이디 통합",
+                "url": "/pub_test/mobile/home_v2/member/mergeid.html"
+            }, {
+                "category" : "member",
+                "title": "ID 비밀번호 찾기",
+                "url": "/pub_test/mobile/member/idpw2.html"
+            }, {
+                "category" : "member",
+                "title": "임시 비밀번호 찾기",
+                "url": "/pub_test/mobile/member/join_unlock_state.html"
+            }, {
+                "category" : "member",
+                "title": "계정 잠금 해제",
+                "url": "/pub_test/mobile/member/join_unlock.html"
+            }, {
+                "category" : "member",
+                "title": "비밀번호 재설정",
+                "url": "/pub_test/mobile/member/pw.html"
+            }, {
+                "category" : "knowcom",
+                "title": "활동내역",
+                "url": "/pub_test/web/home/knowcom/myshop_post_m.html"
+            }, {
+                "category" : "knowcom",
+                "title": "my쇼핑지식",
+                "url": "/pub_test/web/home/knowcom/myshop_reply_m.html"
+            }, {
+                "category" : "knowcom",
+                "title": "글쓰기",
+                "url": "/pub_test/web/home/knowcom/write_m.html"
+            }, {
+                "category" : "knowcom",
+                "title": "url입력",
+                "url": "/pub_test/web/home/knowcom/write_m2_url.html"
+            }, {
+                "category" : "knowcom",
+                "title": "텍스트입력",
+                "url": "/pub_test/web/home/knowcom/write_m2.html"
+            }, {
+                "category" : "knowcom",
+                "title": "모델찾기",
+                "url": "/pub_test/web/home/knowcom/write_m3.html"
+            }, {
+                "category" : "knowcom",
+                "title": "체험단신청",
+                "url": "/pub_test/web/home/knowcom/write_m4.html"
+            }, {
+                "category" : "knowcom",
+                "title": "게시글/댓글 신고",
+                "url": "/pub_test/web/home/knowcom/write_m5.html"
+            }, {
+                "category" : "knowcom",
+                "title": "공지 작성하기",
+                "url": "/pub_test/web/home/knowcom/write_notice.html"
+            }, {
+                "category" : "knowcom",
+                "title": "게시글작성",
+                "url": "/pub_test/web/home/knowcom/write_nuri.html"
+            }, {
+                "category" : "knowcom",
+                "title": "쇼핑관련질문하기",
+                "url": "/pub_test/web/home/knowcom/write_qna.html"
+            }, {
+                "category" : "knowcom",
+                "title": "리뷰작성",
+                "url": "/pub_test/web/home/knowcom/write_review.html"
+            }, {
+                "category" : "core",
+                "title": "쇼핑리포트 이용약관",
+                "url": "/pub_test/mobile/home_v2/agreement_previous.html"
+            }, {
+                "category" : "core",
+                "title": "에누리브라우저 이용약관",
+                "url": "/pub_test/mobile/home_v2/agreement.html"
+            }, {
+                "category" : "core",
+                "title": "브랜드스토어 lp",
+                "url": "/pub_test/mobile/home_v2/brandstore_lp.html"
+            }, {
+                "category" : "core",
+                "title": "브랜드스토어",
+                "url": "/pub_test/mobile/home_v2/brandstore_recom.html"
+            }, {
+                "category" : "core",
+                "title": "광고팝업",
+                "url": "/pub_test/mobile/home_v2/bridge_ext_ad.html"
+            }, {
+                "category" : "core",
+                "title": "검색창",
+                "url": "/pub_test/mobile/home_v2/category_sr.html"
+            }, {
+                "category" : "core",
+                "title": "브랜드스토어 기획전",
+                "url": "/pub_test/mobile/home_v2/cm_plan.html"
+            }, {
+                "category" : "core",
+                "title": "컴퓨터/노트북",
+                "url": "/pub_test/mobile/home_v2/cpp_com.html"
+            }, {
+                "category" : "core",
+                "title": "e머니 혜택",
+                "url": "/pub_test/mobile/home_v2/emoney_benefit_rev.html"
+            }, {
+                "category" : "core",
+                "title": "e머니 혜택",
+                "url": "/pub_test/mobile/home_v2/emoney_benefit.html"
+            }, {
+                "category" : "core",
+                "title": "e머니 적립안내 레이어",
+                "url": "/pub_test/mobile/home_v2/emoney_layer.html"
+            }, {
+                "category" : "core",
+                "title": "e머니 적립내역 리뉴얼",
+                "url": "/pub_test/mobile/home_v2/emoney_renew.html"
+            }, {
+                "category" : "core",
+                "title": "e머니 적립내역",
+                "url": "/pub_test/mobile/home_v2/emoney.html"
+            }, {
+                "category" : "core",
+                "title": "당첨자/공지",
+                "url": "/pub_test/mobile/home_v2/event_won_list.html"
+            }, {
+                "category" : "core",
+                "title": "이벤트 당첨자",
+                "url": "/pub_test/mobile/home_v2/event_won_view.html"
+            }, {
+                "category" : "core",
+                "title": "푸터",
+                "url": "/pub_test/mobile/home_v2/footer.html"
+            }, {
+                "category" : "core",
+                "title": "헤더",
+                "url": "/pub_test/mobile/home_v2/header.html"
+            }, {
+                "category" : "core",
+                "title": "카테고리",
+                "url": "/pub_test/mobile/home_v2/index_category.html"
+            }, {
+                "category" : "core",
+                "title": "홈",
+                "url": "/pub_test/mobile/home_v2/index_rev.html"
+            }, {
+                "category" : "core",
+                "title": "인덱스 탭 이클럽",
+                "url": "/pub_test/mobile/home_v2/index_tab_eclub.html"
+            }, {
+                "category" : "core",
+                "title": "이벤트 탭",
+                "url": "/pub_test/mobile/home_v2/index_tab_event.html"
+            }, {
+                "category" : "core",
+                "title": "이벤트 혜택안내",
+                "url": "/pub_test/mobile/home_v2/index_tab_hidden.html"
+            }, {
+                "category" : "core",
+                "title": "인덱스 홈",
+                "url": "/pub_test/mobile/home_v2/index_tab_home.html"
+            }, {
+                "category" : "core",
+                "title": "핫딜",
+                "url": "/pub_test/mobile/home_v2/index_tab_hotdeal.html"
+            }, {
+                "category" : "core",
+                "title": "이벤트존",
+                "url": "/pub_test/mobile/home_v2/index_tab_knowcom.html"
+            }, {
+                "category" : "core",
+                "title": "픽 pick",
+                "url": "/pub_test/mobile/home_v2/index_tab_pick.html"
+            }, {
+                "category" : "core",
+                "title": "특가",
+                "url": "/pub_test/mobile/home_v2/index_tab_sale.html"
+            }, {
+                "category" : "core",
+                "title": "트랜드픽업",
+                "url": "/pub_test/mobile/home_v2/index_tab_trend.html"
+            }, {
+                "category" : "core",
+                "title": "인덱스 탭",
+                "url": "/pub_test/mobile/home_v2/index_tab.html"
+            }, {
+                "category" : "core",
+                "title": "홈",
+                "url": "/pub_test/mobile/home_v2/index.html"
+            }, {
+                "category" : "core",
+                "title": "레이어",
+                "url": "/pub_test/mobile/home_v2/layer.html"
+            }, {
+                "category" : "core",
+                "title": "스마트파인더",
+                "url": "/pub_test/mobile/home_v2/lp_finder_default_reset_211230.html"
+            }, {
+                "category" : "core",
+                "title": "스마트파인더",
+                "url": "/pub_test/mobile/home_v2/lp_finder_default.html"
+            }, {
+                "category" : "core",
+                "title": "lp 파인더",
+                "url": "/pub_test/mobile/home_v2/lp_finder_fashion.html"
+            }, {
+                "category" : "core",
+                "title": "노트북 lp",
+                "url": "/pub_test/mobile/home_v2/lp_origin_ad.html"
+            }, {
+                "category" : "core",
+                "title": "lp",
+                "url": "/pub_test/mobile/home_v2/lp.html"
+            }, {
+                "category" : "core",
+                "title": "인기쇼핑몰 리스트",
+                "url": "/pub_test/mobile/home_v2/mall_list.html"
+            }, {
+                "category" : "core",
+                "title": "자동차 견적관리 상세",
+                "url": "/pub_test/mobile/home_v2/my_car_estimate_sub.html"
+            }, {
+                "category" : "core",
+                "title": "자동차 견적관리",
+                "url": "/pub_test/mobile/home_v2/my_car_estimate.html"
+            }, {
+                "category" : "core",
+                "title": "자동차 시세관리",
+                "url": "/pub_test/mobile/home_v2/my_car_quote.html"
+            }, {
+                "category" : "core",
+                "title": "마이 에누리",
+                "url": "/pub_test/mobile/home_v2/my_enuri.html"
+            }, {
+                "category" : "core",
+                "title": "자주 묻는 질문",
+                "url": "/pub_test/mobile/home_v2/my_faq_list.html"
+            }, {
+                "category" : "core",
+                "title": "자주 묻는 질문 상세보기",
+                "url": "/pub_test/mobile/home_v2/my_faq_view.html"
+            }, {
+                "category" : "core",
+                "title": "문의내역",
+                "url": "/pub_test/mobile/home_v2/my_inquiry_view.html"
+            }, {
+                "category" : "core",
+                "title": "문의하기",
+                "url": "/pub_test/mobile/home_v2/my_inquiry_write.html"
+            }, {
+                "category" : "core",
+                "title": "최근 본 상품",
+                "url": "/pub_test/mobile/home_v2/my_recent_prod.html"
+            }, {
+                "category" : "core",
+                "title": "찜 폴더 관리",
+                "url": "/pub_test/mobile/home_v2/my_zzim_folder.html"
+            }, {
+                "category" : "core",
+                "title": "찜 상품",
+                "url": "/pub_test/mobile/home_v2/my_zzim_prod.html"
+            }, {
+                "category" : "core",
+                "title": "법적고지",
+                "url": "/pub_test/mobile/home_v2/policy_disclaimer.html"
+            }, {
+                "category" : "core",
+                "title": "이전약관",
+                "url": "/pub_test/mobile/home_v2/policy_previous.html"
+            }, {
+                "category" : "core",
+                "title": "쇼핑리포트 이용약관",
+                "url": "/pub_test/mobile/home_v2/policy_shopping_report.html"
+            }, {
+                "category" : "core",
+                "title": "스마트스토어 이용약관",
+                "url": "/pub_test/mobile/home_v2/policy_smart_agreement_vmarket.html"
+            }, {
+                "category" : "core",
+                "title": "스마트스토어 이용약관",
+                "url": "/pub_test/mobile/home_v2/policy_smart_agreement.html"
+            }, {
+                "category" : "core",
+                "title": "에누리약관",
+                "url": "/pub_test/mobile/home_v2/policy.html"
+            }, {
+                "category" : "core",
+                "title": "가격추세",
+                "url": "/pub_test/mobile/home_v2/price_graph.html"
+            }, {
+                "category" : "core",
+                "title": "최근 본 상품 연관상품",
+                "url": "/pub_test/mobile/home_v2/relate_goods.html"
+            }, {
+                "category" : "core",
+                "title": "srp",
+                "url": "/pub_test/mobile/home_v2/srp.html"
+            }, {
+                "category" : "core",
+                "title": "트랜드",
+                "url": "/pub_test/mobile/home_v2/trend_view.html"
+            }, {
+                "category" : "core",
+                "title": "상세이미지 확대",
+                "url": "/pub_test/mobile/home_v2/vip_detail_big_image.html"
+            }, {
+                "category" : "core",
+                "title": "용어사전",
+                "url": "/pub_test/mobile/home_v2/vip_dictionary.html"
+            }, {
+                "category" : "core",
+                "title": "전성분 정보",
+                "url": "/pub_test/mobile/home_v2/vip_icid.html"
+            }, {
+                "category" : "core",
+                "title": "상품정보 상세페이지",
+                "url": "/pub_test/mobile/home_v2/vip_market_detail_ssg.html"
+            }, {
+                "category" : "core",
+                "title": "상품정보 상세페이지",
+                "url": "/pub_test/mobile/home_v2/vip_market_detail.html"
+            }, {
+                "category" : "core",
+                "title": "vip",
+                "url": "/pub_test/mobile/home_v2/vip_market.html"
+            }, {
+                "category" : "core",
+                "title": "상품 신고",
+                "url": "/pub_test/mobile/home_v2/vip_report.html"
+            }, {
+                "category" : "core",
+                "title": "상품후기 상세",
+                "url": "/pub_test/mobile/home_v2/vip_review_detail.html"
+            }, {
+                "category" : "core",
+                "title": "vip 상품정보",
+                "url": "/pub_test/mobile/home_v2/vip_s.html"
+            }, {
+                "category" : "core",
+                "title": "vip 상품비교",
+                "url": "/pub_test/mobile/home_v2/vip_tab_compare.html"
+            }, {
+                "category" : "core",
+                "title": "상품정보",
+                "url": "/pub_test/mobile/home_v2/vip_tab_info.html#"
+            }, {
+                "category" : "core",
+                "title": "미디어 후기",
+                "url": "/pub_test/mobile/home_v2/vip_tab_media.html"
+            }, {
+                "category" : "core",
+                "title": "문의글 cm 상담",
+                "url": "/pub_test/mobile/home_v2/vip_tab_qna.html"
+            }, {
+                "category" : "core",
+                "title": "상품추천",
+                "url": "/pub_test/mobile/home_v2/vip_tab_recommend.html"
+            }, {
+                "category" : "core",
+                "title": "상품후기",
+                "url": "/pub_test/mobile/home_v2/vip_tab_review.html"
+            }, {
+                "category" : "core",
+                "title": "스펙비교",
+                "url": "/pub_test/mobile/home_v2/vip_tab_spec.html"
+            }, {
+                "category" : "core",
+                "title": "상품정보",
+                "url": "/pub_test/mobile/home_v2/vip_tab_summary.html"
+            }, {
+                "category" : "core",
+                "title": "q&a 작성",
+                "url": "/pub_test/mobile/home_v2/vip_write_qna.html"
+            }, {
+                "category" : "core",
+                "title": "후기작성",
+                "url": "/pub_test/mobile/home_v2/vip_write_review.html"
+            }, {
+                "category" : "core",
+                "title": "에누리뷰 주소검색",
+                "url": "/pub_test/mobile/home_v2/search_address_step1.html"
+            }, {
+                "category" : "core",
+                "title": "에누리뷰 주소검색",
+                "url": "/pub_test/mobile/home_v2/search_address_step2.html"
+            }, {
+                "category" : "core",
+                "title": "vip",
+                "url": "/pub_test/mobile/home_v2/vip.html"
+            }, {
+                "category" : "core",
+                "title": "기획전",
+                "url": "/pub_test/mobile/home_v3/cm_plan.html"
+            }, {
+                "category" : "core",
+                "title": "카테고리",
+                "url": "/pub_test/mobile/home_v3/cpp.html"
+            }, {
+                "category" : "core",
+                "title": "lp",
+                "url": "/pub_test/mobile/home_v3/lp.html"
+            }, {
+                "category" : "core",
+                "title": "인기쇼핑몰 리스트",
+                "url": "/pub_test/mobile/home_v3/mall_list.html"
+            }, {
+                "category" : "core",
+                "title": "자주 묻는 질문",
+                "url": "/pub_test/mobile/home_v3/my_faq_list.html"
+            }, {
+                "category" : "core",
+                "title": "자주 묻는 질문 상세",
+                "url": "/pub_test/mobile/home_v3/my_faq_view.html"
+            }, {
+                "category" : "core",
+                "title": "문의내역",
+                "url": "/pub_test/mobile/home_v3/my_inquiry_view.html"
+            }, {
+                "category" : "core",
+                "title": "문의하기",
+                "url": "/pub_test/mobile/home_v3/my_inquiry_write.html"
+            }, {
+                "category" : "core",
+                "title": "법적고지",
+                "url": "/pub_test/mobile/home_v3/policy_disclaimer.html"
+            }, {
+                "category" : "core",
+                "title": "에누리 정책",
+                "url": "/pub_test/mobile/home_v3/policy.html"
+            }, {
+                "category" : "core",
+                "title": "최근본 상품 연관상품",
+                "url": "/pub_test/mobile/home_v3/relate_goods.html"
+            }, {
+                "category" : "core",
+                "title": "srp",
+                "url": "/pub_test/mobile/home_v3/srp.html"
+            }, {
+                "category" : "core",
+                "title": "트랜드",
+                "url": "/pub_test/mobile/home_v3/trend_view.html"
+            }, {
+                "category" : "core",
+                "title": "vip",
+                "url": "/pub_test/mobile/home_v3/vip.html"
+            }, {
+                "category" : "core",
+                "title": "회사이전안내",
+                "url": "/pub_test/web/summerce/m/index.html"
+            }, {
+                "category" : "mockup",
+                "title": "lp 타입1",
+                "url": "/pub_test/mockup/ad_mockup/m/lp_mockup_type1.html"
+            }, {
+                "category" : "mockup",
+                "title": "lp 타입2",
+                "url": "/pub_test/mockup/ad_mockup/m/lp_mockup_type2.html"
+            }, {
+                "category" : "mockup",
+                "title": "lp 타입3",
+                "url": "/pub_test/mockup/ad_mockup/m/lp_mockup_type3.html"
+            }, {
+                "category" : "mockup",
+                "title": "e클럽",
+                "url": "/pub_test/mockup/e-club/info.htm"
+            }, {
+                "category" : "mockup",
+                "title": "e클럽 초대",
+                "url": "/pub_test/mockup/e-club/invite.html"
+            }, {
+                "category" : "mockup",
+                "title": "lp",
+                "url": "/pub_test/mockup/finder/version2/lp.html"
+            }, {
+                "category" : "mockup",
+                "title": "홈",
+                "url": "/pub_test/mockup/reporting/210602/m-home.html"
+            }, {
+                "category" : "mockup",
+                "title": "누리클럽",
+                "url": "/pub_test/mockup/reporting/210602/m-nuriclub.html"
+            }, {
+                "category" : "mockup",
+                "title": "AI쇼핑진단 설문지",
+                "url": "/pub_test/mockup/reporting/210602/m-question.html"
+            }, {
+                "category" : "mockup",
+                "title": "AI쇼핑진단 결과",
+                "url": "/pub_test/mockup/reporting/210602/m-result.html"
+            }, {
+                "category" : "mockup",
+                "title": "리스트",
+                "url": "/pub_test/mockup/reporting/210602/main.html"
+            }, {
+                "category" : "mockup",
+                "title": "모바일홈",
+                "url": "/pub_test/mockup/reporting/210607/m-home.html"
+            }, {
+                "category" : "mockup",
+                "title": "누리클럽",
+                "url": "/pub_test/mockup/reporting/210607/m-nuriclub.html"
+            }, {
+                "category" : "mockup",
+                "title": "AI쇼핑진단 설문지",
+                "url": "/pub_test/mockup/reporting/210607/m-question.html"
+            }, {
+                "category" : "mockup",
+                "title": "리스트",
+                "url": "/pub_test/mockup/reporting/210607/main.html"
+            }, {
+                "category" : "mockup",
+                "title": "마이e클럽",
+                "url": "/pub_test/mockup/reporting/210803/myeclub.html"
+            }, {
+                "category" : "mockup",
+                "title": "조건검색",
+                "url": "/pub_test/mockup/reporting/210805/m-finder.html"
+            }, {
+                "category" : "mockup",
+                "title": "마이e클럽",
+                "url": "/pub_test/mockup/reporting/210805/m-myeclub.html"
+            }, {
+                "category" : "mockup",
+                "title": "리스트",
+                "url": "/pub_test/mockup/reporting/210805/main.html"
+            }, {
+                "category" : "jca", 
+                "title" : "트렌드픽업",
+                "url" : "/pub_test/jca/jca_preview_trendpickup_m.html"
+            }, {
+                "category" : "noticeLayer", 
+                "title" : "시스템 점검 안내",
+                "url" : "/pub_test/mobile/etc/check.html"
+            }
+        ]
+    }]
+}

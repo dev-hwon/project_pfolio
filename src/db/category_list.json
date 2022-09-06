@@ -1,0 +1,125 @@
+{
+    "totalCnt": 50,
+    "lists": [
+        {
+            "categoryNumber": 1,
+            "categoryName": "Category1",
+            "categoryParent": "",
+            "categoryChildren": [
+                {
+                    "categoryNumber": 12,
+                    "categoryName": "Category1_1",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }, 
+                {
+                    "categoryNumber": 13,
+                    "categoryName": "Category1_2",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }
+                
+            ]
+        },
+        {
+            "categoryNumber": 2,
+            "categoryName": "Category2",
+            "categoryParent": "",
+            "categoryChildren": [
+                {
+                    "categoryNumber": 14,
+                    "categoryName": "Category2_1",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }, 
+                {
+                    "categoryNumber": 15,
+                    "categoryName": "Category2_2",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }
+                
+            ]
+        },
+        {
+            "categoryNumber": 3,
+            "categoryName": "Category3",
+            "categoryParent": "",
+            "categoryChildren": [
+                {
+                    "categoryNumber": 16,
+                    "categoryName": "Category3_1",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }, 
+                {
+                    "categoryNumber": 17,
+                    "categoryName": "Category3_3",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }
+                
+            ]
+        },
+        {
+            "categoryNumber": 4,
+            "categoryName": "Category4",
+            "categoryParent": "",
+            "categoryChildren": [
+                {
+                    "categoryNumber": 18,
+                    "categoryName": "Category4_1",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }, 
+                {
+                    "categoryNumber": 19,
+                    "categoryName": "Category4_2",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }
+                
+            ]
+        },
+        {
+            "categoryNumber": 5,
+            "categoryName": "Category5",
+            "categoryParent": "",
+            "categoryChildren": [
+                {
+                    "categoryNumber": 20,
+                    "categoryName": "Category5_1",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }, 
+                {
+                    "categoryNumber": 21,
+                    "categoryName": "Category5_2",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }
+                
+            ]
+        },
+        {
+            "categoryNumber": 6,
+            "categoryName": "Category6",
+            "categoryParent": "",
+            "categoryChildren": [
+                {
+                    "categoryNumber": 22,
+                    "categoryName": "Category6_1",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }, 
+                {
+                    "categoryNumber": 23,
+                    "categoryName": "Category6_2",
+                    "categoryParent": "",
+                    "categoryChildren": ""
+                }
+                
+            ]
+        }
+    ]
+}
