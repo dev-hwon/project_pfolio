@@ -25,11 +25,7 @@ export default function Header(props) {
                 id="global__lnbmenu"
                 style={{'display' : (props.isMobile ? (toggle ? 'block' : 'none') : 'block') }}
             >
-                <Lnblist 
-                    cateName={props.cateName}
-                    pageNumber={props.pageNumber} 
-                    selectedPageNumber={props.selectedPageNumber} 
-                ></Lnblist>
+                <Lnblist changeDepth={props.changeDepth}></Lnblist>
             </nav>
         </div>
     );

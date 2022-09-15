@@ -1,4 +1,4 @@
-{
+[{
     "device" : [{
         "type" : "pc",
         "category" : ["promotion", "globalshopping", "eclub", "car", "emoney", "member", "mockup", "knowcom", "core", "sdu", "bridge", "dm", "mail", "policy", "noticeLayer", "uiGuide", "enuripc", "ems", "summerceIntro", "travel", "jca", "enuriAd"]
@@ -5121,4 +5121,4 @@
             "url" : "/pub_test/mobile/etc/check.html"
         }
     ]
-}
+}]

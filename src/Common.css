@@ -188,7 +188,9 @@ button {
 .flex_box>* {
   flex: 0 0 auto;
 }
-
+.algin_center {
+  align-items: center;
+}
 .text_center {
   text-align: center;
 }
@@ -207,7 +209,7 @@ button {
 /* ----------------------------------------------------------
               스크롤바
 ------------------------------------------------------------*/
-::-webkit-scrollbar { width: 4px; height: 0;}
+::-webkit-scrollbar { width: 2px; height: 0;}
 ::-webkit-scrollbar-track { background-color: #000; -webkit-border-radius: 2px; border-radius: 2px; }
 ::-webkit-scrollbar-thumb { background: #ffca5d; -webkit-border-radius: 2px; border-radius: 2px; }
 ::-webkit-scrollbar-button { display: none; }
@@ -229,7 +231,7 @@ i[class*="ico_"] {
 .global_warp {display: flex; flex-wrap: wrap; height: 100vh;}
 .global_warp > #header { 
   --lnb-logo-width : 70px; 
-  --lnb-width : 20%; 
+  --lnb-width : 16%; 
   flex: 0 0 auto; position:relative; padding-left: var(--lnb-logo-width); width:var(--lnb-width); min-width: 280px; background-color: var( --color-theme-bg);}
 
 #header .header__top {position: fixed; top: 0; left: 0; width: 100vh; background-color: rgba(0,0,0,.3); height:var(--lnb-logo-width); font-size: 0; z-index: 100; transform: rotate(90deg); transform-origin: calc(var(--lnb-logo-width) / 2) center;}
@@ -263,6 +265,10 @@ i[class*="ico_"] {
 .common_btn_warp {position:relative; z-index: 5;}
 
 .common_btn {display: inline-block; line-height: 38px; padding: 0 15px; border-radius: 8px; background-color: #fff; border: 1px solid #ddd; color: #333; transition: all .4s; font-size: 16px;}
+.btn_xs {font-size: 10px; line-height: 24px;}
+.btn_sm {font-size: 12px; line-height: 30px;}
+.btn_lg {font-size: 18px; line-height: 38px;}
+.btn_xl {font-size: 20px; line-height: 44px;}
 .btn_blue { color: #fff; background-color: var(--color-blue-5); border-color: var(--color-blue-5);}
 .btn_blue:hover { color: #fff; background-color: var(--color-blue-8); border-color: var(--color-blue-8);}
 
@@ -270,15 +276,32 @@ i[class*="ico_"] {
               main
 ------------------------------------------------------------*/
 .global_warp > div#main {flex: 1 1 auto; position:relative; height:100vh; overflow: auto;}
+#main {padding:0 15px;}
+#main .main_header {font-size: 20px; font-weight: bold; color:#000; padding:20px 0;}
+#main .publist_list { background-color: var(--color-gray-1); border-top:2px solid var(--color-blue-6);}
+#main .plist_info > li { padding:4px 0;}
+#main .plist_info > li + li {border-top:1px solid var(--color-gray-4)}
+#main .plist_info > li > div {padding:0 10px; text-align: center; position:relative; font-size:14px; color:#333;}
+#main .plist_info > li > div + div:before {content:""; width: 1px; height: 10px; background-color: var(--color-gray-4); position:absolute; top:50%; left:0; transform: translateY(-50%);}
+#main .plist_info > li > .plist_no {width: 50px;}
+#main .plist_info > li > .plist_title {flex:1 1 auto; text-align: left;}
+#main .plist_info > li > .plist_url {width: 100px}
+#main .plist_info > li > .plist_url a {}
+
 
 /* ----------------------------------------------------------
               footer
 ------------------------------------------------------------*/
 .global_warp > div#footer {
   flex: 0 0 auto;
-  width:100px;
-  height:100vh;
-  background-color: #f5f5f5;}
+  width:100%;
+  position:fixed;
+  bottom:0;
+  left:0;
+  padding:20px 15px;
+  background-color: #f5f5f5;
+  z-index: 100;
+}
 
 
 
@@ -291,7 +314,7 @@ i[class*="ico_"] {
 ------------------------------------------------------------*/
 .global_warp.isMobile {}
 .global_warp.isMobile { flex-flow: column; height:auto;}
-.global_warp.isMobile > #header { width: 100%; padding-left: 0;}
+.global_warp.isMobile > #header {width: 100%; padding-left: 0;}
 
 .global_warp.isMobile #header .header__top { width: 100%; transform: rotate(0); background-color: #1a4a76; }
 .global_warp.isMobile #header .header__top .btn__lnbmenu {display: block;}
@@ -300,7 +323,10 @@ i[class*="ico_"] {
 .global_warp.isMobile .global__lnbmenu {display:none; padding-top:var(--lnb-logo-width);}
 .global_warp.isMobile .global__lnbmenu .lnb__depth2 {position:static; border-radius: 0 0 8px 8px;}
 .global_warp.isMobile .global__lnbmenu .lnb__depth2 > li > a { font-size: 14px; letter-spacing: -.5px; padding: 15px 35px;}
-
+/* ----------------------------------------------------------
+              [Mbbile] footer
+  ------------------------------------------------------------*/
+  .global_warp.isMobile #main {padding-top:70px;}
 /* ----------------------------------------------------------
               [Mbbile] footer
   ------------------------------------------------------------*/

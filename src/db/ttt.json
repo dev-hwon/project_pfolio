@@ -1,11 +1,12 @@
 {
-    "device" : [{
-        "type" : "pc",
-        "category" : ["promotion", "globalshopping", "eclub", "car", "emoney", "member", "mockup", "knowcom", "core", "sdu", "bridge", "dm", "mail", "policy", "noticeLayer", "uiGuide", "enuripc", "ems", "summerceIntro", "travel", "jca", "enuriAd"]
-    }, {
-        "type" : "mobile",
-        "category" : ["promotion", "globalshopping", "eclub", "car", "emoney", "member", "knowcom", "core", "mockup", "jca", "noticeLayer"]
-    }],
+    "device" : ["pc", "mobile"],
+    "category" : [
+        {
+            "pc" : ["promotion", "globalshopping", "eclub", "car", "emoney", "member", "mockup", "knowcom", "core", "sdu", "bridge", "dm", "mail", "policy", "noticeLayer", "uiGuide", "enuripc", "ems", "summerceIntro", "travel", "jca", "enuriAd"]
+        }, {
+            "mobile" : ["promotion", "globalshopping", "eclub", "car", "emoney", "member", "knowcom", "core", "mockup", "jca", "noticeLayer"]
+        }
+    ],
     "lists" : [
         {
             "device" : "pc",
@@ -24,7 +25,7 @@
             "category" : "promotion",
             "categoryKO" : "프로모션",
             "title" : "생일 & 컴백 혜택 프로모션",
-            "url" : "/pub_test/event/y2021_rev/buy_birth/web/index_dec.html"
+            "url" : "/pub_test/event/y2021_rev/buy_birth/web/index_dec.html"A
         }, {
             "device" : "pc",
             "category" : "promotion",
